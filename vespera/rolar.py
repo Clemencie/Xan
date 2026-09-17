@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-rolar.py — dados oficiais da mesa de Ondaval (GURPS 4ª edição)
+rolar.py — dados oficiais da mesa de Vespera (GURPS 4ª edição)
 
 Aleatoriedade de verdade: usa secrets.SystemRandom(), que bebe direto da
 fonte de entropia do sistema operacional (o mesmo gerador que alimenta
