@@ -9,13 +9,13 @@ chaves criptográficas). Sem semente, sem previsão — tão perto de
 "completamente aleatório" quanto uma máquina alcança.
 
 Uso:
-  python3 ondaval/rolar.py                    → 3d6 solto
-  python3 ondaval/rolar.py 3d6                → 3d6 solto
-  python3 ondaval/rolar.py 2d6+1              → expressão livre NdN±M
-  python3 ondaval/rolar.py 3d6 12             → teste contra Habilidade 12
-  python3 ondaval/rolar.py 3d6 12 14          → confronto rápido 12 × 14
-  python3 ondaval/rolar.py 3d6 14 --n 4       → quatro testes seguidos
-  python3 ondaval/rolar.py 1d100              → percentagem
+  python3 vespera/rolar.py                    → 3d6 solto
+  python3 vespera/rolar.py 3d6                → 3d6 solto
+  python3 vespera/rolar.py 2d6+1              → expressão livre NdN±M
+  python3 vespera/rolar.py 3d6 12             → teste contra Habilidade 12
+  python3 vespera/rolar.py 3d6 12 14          → confronto rápido 12 × 14
+  python3 vespera/rolar.py 3d6 14 --n 4       → quatro testes seguidos
+  python3 vespera/rolar.py 1d100              → percentagem
 """
 
 import argparse
@@ -110,8 +110,8 @@ def linha_confronto(hab_a, hab_b):
 
 def main():
     ap = argparse.ArgumentParser(
-        description="Dados de Ondaval — GURPS 4e, aleatoriedade criptográfica.",
-        epilog="Ex.: python3 ondaval/rolar.py 3d6 12  |  python3 ondaval/rolar.py 2d6+1 --n 3",
+        description="Dados de Vespera — GURPS 4e, aleatoriedade criptográfica.",
+        epilog="Ex.: python3 vespera/rolar.py 3d6 12  |  python3 vespera/rolar.py 2d6+1 --n 3",
     )
     ap.add_argument("expressao", nargs="?", default="3d6", help="ex.: 3d6, 2d6+1, d100")
     ap.add_argument("alvos", nargs="*", type=int,
