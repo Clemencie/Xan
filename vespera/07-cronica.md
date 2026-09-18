@@ -13,6 +13,23 @@
 - **Primeiro mundo criado:** fantasia "Ondaval/Marzagão" — depois aposentado
   a pedido do jogador (ver Turno 1).
 
+## Turno 2 — fora do jogo (18/09/2026)
+
+- **Jogador pediu:** renascer como espírito — fora de hospede, perde
+  "mana" (essência/FP) com o tempo; zerou, morre. Parasita por natureza.
+  Nascimento na **Era dos Reinos**.
+- **Aprovado com custo:** povo **Errante** criado (espíritos acendem onde
+  a Maré se acumula — cabem no cânon sem serem "especiais"). Template de
+  50 pontos: Posse de Hospede, Não Envelhece, Empatia, Sentido de Maré;
+  Dependência (hospede, diária, fatal) e Segredo Maior. Regras de
+  essência/posse/consumo do hospede registradas em `05`.
+- **Era dos Reinos confirmada** como origem; falta o ano exato.
+- **Registrado em `03` e `06`** (template + 3 fachadas possíveis:
+  Inquilino, Recém-Chegado, Vulto). Pendências atualizadas em `05` e
+  `00`. Cartas do mestre atualizadas em `08` (exorcista; Sentido de
+  Maré do PJ aponta para a veia do Santuário Velho; consequências por
+  fachada).
+
 ## Turno 1 — fora do jogo (17/09/2026)
 
 - **Memória de ferro criada:** arquivos da campanha + `rolar.py` (dados com

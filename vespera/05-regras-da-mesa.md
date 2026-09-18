@@ -52,6 +52,44 @@
 | 3.900–4.074 | **O Rompimento** | Sobrevivente do desastre (só raças longevas, sempre com história de sobra): Indomável, pesadelos, e um saber que não se escreve mais. |
 | antes de 3.900 | Era dos Reinos | Lenda viva — só com aprovação do mestre, e o mundo vai te olhar torto. |
 
+## Regras do ERRANTE (raça do PJ)
+
+**A essência (a "mana").** O espírito tem seus **FP**. Fora de um
+hospede:
+- **−1 FP por hora** fora de corpo (−2/h sob chuva de Maré ou perto de
+  veia seca — o vazio Cutuca).
+- FP 0 → passa a perder **1 HP por hora** (dispersão).
+- HP 0 → **morte real**. Sem clínica, sem ressurreição, sem volta.
+- Dentro de um hospede, FP recuperam comendo/dormindo **pelo corpo**.
+
+**O custo para o hospede.** Possuir não é grátis para o corpo: cada dia
+possuído **sem pagar 2 FP de "cuidado"**, o hospede perde 1 FP permanente
+(exaustão, olheiras fundas, cabelo fraco — parasita visível). Errante
+bondoso é Errante que gasta FP; Errante cruel é Errante que deixa
+cadáveres andando.
+
+**Tomar e sair de corpos.**
+- Consenso dispensa teste. Relutante: **toque + concurso de Will**
+  (espírito × hospede); usar isso em alguém lúcido e saudável é ASSALTO,
+  e a Baixada não perdoa.
+- Margem de 5+ no concurso: o hospede fica consciente "no banco de
+  trás" — luta, grita por dentro, pode tentar retomar (concurso por
+  cena).
+- Sair por vontade própria: 1 FP. Ser **expulso por exorcismo**: 2d HP
+  e 1d FP.
+- Hospede morre: ejeção imediata, 1d HP, 2d FP; o mesmo corpo nunca mais.
+
+**Fraquezas rituais (efeitos de mundo, sem pontos):** talismãs de âncora
+da Ordem prendem um Errante por 1d minutos (teste de Will); solo de
+santuário da Ordem exige Will−1 por dia para pisar; o exorcismo formal
+da Concessão é um concurso de Will com penalidades — e existe gente
+certificada para fazer isso.
+
+**Ano de acendimento.** Errantes não nascem: **acendem** onde a Maré se
+acumula. O ano de nascimento escolhido é o do acendimento. Acendido na
+Era dos Reinos, você é uma das últimas vozes vivas daquela era — e
+lembra do Rompimento por dentro.
+
 ## Mecânica em uma página
 
 - **Teste:** 3d6 ≤ habilidade efetiva. Margem = habilidade − rolagem.
@@ -85,9 +123,10 @@
 
 ## Pendências (resolver com o jogador)
 
-- [ ] **Raça** (tabela em `03`; custo entra nos 150).
-- [ ] **Ano de nascimento** (regras acima).
-- [ ] **Molde ou conceito** (`06-ficha-pj.md`).
+- [x] **Raça:** **Errante** (espírito hospedeiro, 50 pontos) — Turno 2.
+- [ ] **Ano de acendimento:** era escolhida = **Era dos Reinos**; falta o
+  ano exato.
+- [ ] **Fachada na Baixada** (como o Errante vive: corpo atual/situação).
 - [ ] **Nome do PJ.**
 - [ ] **Mortalidade:** padrão (assumido), brutal ou leve.
 

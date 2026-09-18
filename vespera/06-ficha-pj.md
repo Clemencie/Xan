@@ -15,11 +15,47 @@
 
 ## Passo a passo (em aberto)
 
-1. Raça: ______ (custo: ______ )
-2. Ano de nascimento: ______ → idade ______ → era: ______
-3. Molde/conceito: ______
+1. Raça: **Errante** ✅ (custo: **50** → restam **100 pontos** livres para
+   atributos, perícias, FP — a essência — e o resto)
+2. Ano de acendimento: **Era dos Reinos** ✅ — ano exato: ______ → idade: ______
+3. Fachada (como vive na Baixada): ______ (opções abaixo)
 4. Nome: ______
-5. Quirks (5): ______
+5. Quirks do template: arcaísmos; coleciona um objeto por vida; espelhos.
+
+## As três fachadas (escolha como o Errante chega à campanha)
+
+### (a) O Inquilino — 30 anos no mesmo corpo
+O corpo é do **Velho Anselmo**, pescador da Baixada, doente do pulmão.
+Consentiu abrigar o espírito há décadas — contrato antigo de companhia:
+"fica comigo até eu ir". O bairro todo conhece o Anselmo; ninguém sabe
+quem pilota. Corpo: ST 9, DX 9, HT 8 (doente) — mas com memória muscular
+de 30 anos: Barcos-12, Pescador-13, Rua (Baixada)-12, Peixe-12.
+**Drama:** o corpo morre cedo ou tarde, e aí a Baixada fica órfã de um
+velho que ninguém sabia que era dois.
+
+### (b) O Recém-Chegado — corpo novo, semanas de uso
+Tomou, há poucas semanas, o corpo de **Tomás Roca**, carregador do Píer
+que "sumiu" — ninguém procura, ninguém ainda estranhou. Corpo: ST 11,
+DX 10, HT 11, Carga-12, Rua-11. O hospede sonha e luta no banco de trás
+(margem 5+ no concurso). **Drama:** vivo, tenso, ético — e o espírito
+precisa aprender a ser o Tomás na frente dos amigos do Tomás.
+
+### (c) O Vulto — sem corpo agora
+Começa a campanha **fora de corpo**, com meia essência, no frio da
+Baixada — com dezenas de horas para achar hospede antes de começar a
+se desfazer. **Drama:** fome imediata, modo difícil. O mestre avisa:
+é a escolha mais brutal e a mais viva.
+
+## As 100 pontos livres (proposta a conferir na escolha final)
+
+- IQ 13 [60]; Will 12 [10]; Percepção 13 [15] (espírito que observa);
+- **FP 13** [9] — a essência; ~13 horas fora de corpo;
+- Área de Conhecimento (Cindra pré-Rompimento) IQ [8] — a era que você
+  viu;
+- Fala Antiga (nativo) [0, nativa]; Comércio/Alto Quidovino da Baixada,
+  Palavra-12 [8]; Disfarce (ser gente)-12 [4]; Psicologia-11 [4];
+- Perícias mentais de 2.400 anos de vidas: escolha 3 a IQ-12 [12].
+- Sobram ~20 pontos — gastamos juntos.
 
 ## Moldes disponíveis (futurizados — escolha ou descreva o seu)
 

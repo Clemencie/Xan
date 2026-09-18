@@ -65,5 +65,5 @@
 
 - **Data no jogo:** 14 de abril de **Ano 6.047 da Alvorada** (outono em
   Cindra), manhã, Baixada de Alvora.
-- **PJ:** em criação — faltam raça, ano de nascimento, molde, nome,
-  mortalidade.
+- **PJ:** em criação — raça escolhida: **Errante** (espírito hospedeiro,
+  50 pts). Faltam: ano de acendimento, fachada, nome, mortalidade.

@@ -84,6 +84,26 @@
 
 ## Cartas na manga do mestre (usar com parcimônia)
 
+- **O exorcista.** A Concessão da Maré mantém, na Coroa, uma inspetoria
+  de "fenômenos de posse". Um inspetor (humano, maleta de talismãs de
+  âncora, sono leve) desce para a Baixada **se** a natureza do PJ vazar
+  OU se um corpo possuído aparecer morto com as marcações de ejeção.
+  Não é vilão: é burocrata com um formulário de dispersão autorizada.
+- **O radar orgânico.** O Sentido de Maré do PJ **sente a veia sob o
+  Santuário Velho** quando passa perto (10 m) — calor morno, "água que
+  respira". Ele não entende o que é (a veia "secou", dizem todos). É a
+  mesma veia da semente de Sancha e do "canto" que Mécia ouve na chuva.
+  Três pistas, uma verdade — e o PJ tem o nariz para ela.
+- **Se a fachada for (a) — o Inquilino:** Anselmo está piorando. O corpo
+  rende uns 2–4 meses de jogo antes de falhar de vez (adequar ao
+  relógio). Quando cair, a Baixada inteira vai ao enterro de um homem
+  que o PJ conhece por dentro.
+- **Se a fachada for (b) — o Recém-Chegado:** os amigos do Tomás Roca
+  começam a estranhar pequenos erros (fala, gosto de cerveja, um nó de
+  corda que ele nunca errava). Em 1–2 meses, alguém pergunta demais.
+- **Se a fachada for (c) — o Vulto:** a primeira cena é a fome. A Mécia
+  SENTE o PJ passar (ex-condutora: pele de galinha). Ela não denuncia —
+  ela quer conversar com "o menino da Maré".
 - **O auditor da Coroa** (mandado pela Ordem) desce para Alvora depois da
   votação, se o dado vier à tona.
 - **Um viciado em bruma deformado** aparece na Praça do Ouriço, se a bruma

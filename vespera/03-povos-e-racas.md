@@ -83,6 +83,47 @@ sem que ninguém levante a cabeça.
 | Ganzi | 25 | 130 | Tocado pelo caos entre as Portas; nada nele é exatamente normal. |
 | Tripkee | 20 | 60 | Parente grippli das nuvens; salto longo, juízo curto. |
 | Fleshwarp | 25 | variável | Remodelado por algo que não perguntou; corpo novo, história antiga. |
+| **Errante** | **50** | não envelhece | Espírito da Maré que vive de corpos emprestados; sem hospede, apaga. (Ver seção abaixo.) |
+
+## Um povo à parte — os Errantes (espíritos hospedeiros)
+
+A Maré, onde se acumula — numa veia sob um santuário, num lago calmo, num
+berçário de pedra — às vezes **acende**: nasce um espírito. Errantes não
+têm corpo próprio que dure. Vivem **em corpos emprestados** e, fora deles,
+apagam devagar. O folclore os chama de *hóspedes*, *sombra calma*, *o
+que anda de noite sem pisar*. A Ordem da Maré os chama nos registros
+antigos de **simbiontes errantes** — e os textos da Era dos Reinos contam
+que antes do Rompimento havia poças de Maré cheias deles. Depois do
+Rompimento, quase não restou nenhum.
+
+Errantes não são únicos nem lendários — são **raros e invisíveis**, que é
+diferente. Ninguém na Baixada sabe que existe um ali. Se soubesse, haveria
+fogo, pregos e um exorcista da Concessão em menos de uma semana.
+
+### Template: ERRANTE — 50 pontos
+
+**Vantagens (105 pontos):**
+- **Posse de Hospede** (60): Possession (External) 100, Especializado
+  (humanoides) −20%, Exorcizável −10%, o hospede sonha com a sua vida
+  −5%, uso relutante custa 1 FP extra −5%.
+- **Não Envelhece** (15): a idade não toca o espírito.
+- **Empatia** (15): sente a emoção superficial de quem está perto.
+- **Sentido de Maré** (15): Percepção Extra — sente hospedeiros vivos e
+  **veias de Maré** num raio de 10 m, como calor na cara.
+
+**Desvantagens (−50 pontos):**
+- **Dependência** (hospedeiro humanoide consciente; diária; fatal) (−30).
+- **Segredo (Maior)** (−20): "é um ladrão de corpos" — se descoberto,
+  vira caçada (ver `05`, regras do Errante).
+
+**Quirks (−5):** fala com arcaísmos da época em que acendeu; coleciona um
+objeto pequeno de cada vida vivida; nunca atravessa um espelho sem olhar.
+
+**No corpo (enquanto possuído):** usa ST/DX/HT **do corpo** + IQ/Will/
+Percepção **e perícias mentais do espírito**. Perícias físicas valem as
+que o CORPO sabe (memória muscular é do corpo — por isso hospedes
+antigos treinam seus corpos por anos). O corpo possuído não envelhece;
+ao sair, os dias possuídos cobram-se em semanas de uma vez.
 
 ## Templates completos (os mais escolhidos)
 
