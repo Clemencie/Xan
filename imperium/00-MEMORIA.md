@@ -73,7 +73,10 @@
 
 ## Estado da mesa (uma linha, atualize a cada turno)
 
-- **Data no jogo:** (proposta) 998.M30 — a Grande Cruzada em seu auge; a
-  confirmação vem com a escolha de Legião.
-- **PJ:** em criação — neófito gene-seed. Faltam: **Legião, sistema,
-  data de início, nome, matiz das memórias**.
+- **Data no jogo:** ~**950.M30** — meio da Grande Cruzada; 16 Primarcas
+  encontrados (faltam Curze e Alpharius); Imperador ainda em campanha.
+- **Sistema:** **Deathwatch (FFG)** ✅ (d100, graus de sucesso; adaptação
+  de neófito em `03`).
+- **Memórias do mundo real:** **só instinto** ✅ — sem sonhos narrados,
+  sem mecânica; o jogador sabe, o personagem sente.
+- **PJ:** em criação — faltam **Legião** (ver `07`) e **nome**.

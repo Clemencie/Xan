@@ -28,7 +28,7 @@ python3 imperium/rolar.py 2d10+10       # dano de bolter (expressão livre)
 
 ## Estado atual
 
-PJ em criação: **Astartes neófito** (lote 6–9 implantado), memórias de
-outra vida como fundo. Faltam: **Legião, sistema, data de início, matiz
-das memórias, nome** — ver `imperium/03-sistema.md § Pendências`.
-Primeira cena planejada: o despertar no Apotecarion.
+Sistema **Deathwatch** ✅ · início **~950.M30** ✅ · memórias **só
+instinto** ✅. PJ em criação: **Astartes neófito** (lote 6–9 implantado).
+Faltam: **Legião** (cardápio completo em `imperium/07-legioes.md`) e
+**nome**. Primeira cena planejada: o despertar no Apotecarion.

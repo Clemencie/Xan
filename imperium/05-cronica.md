@@ -27,6 +27,17 @@
   zero = morte). Criado o povo **Errante** (50 pts), fachadas propostas
   (Inquilino/Recém-Chegado/Vulto). Nascimento na Era dos Reinos.
 
+## Turno 4 — fora do jogo (18/09/2026)
+
+- **Escolhas do jogador:** sistema **Deathwatch (FFG)** ✅; início
+  **~950.M30** ✅; memórias **só instinto** ✅ (sem sonhos narrados, sem
+  mecânica). Legião: jogador pediu para ver **todas as opções**.
+- **Criado `07-legioes.md`:** cardápio completo das 18 Legiões na época
+  de 950.M30 (16 Primarcas achados; faltam Curze e Alpharius) + o que
+  cada gene-seed muda no neófito.
+- **Falta:** Legião → nome → ficha Deathwatch → primeira cena
+  (Apotecarion).
+
 ## Turno 3 — fora do jogo (18/09/2026)
 
 - **Mudança total, a pedido do jogador:**

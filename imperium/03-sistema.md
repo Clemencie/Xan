@@ -51,25 +51,13 @@ python3 imperium/rolar.py 3d10 --n 4    # repetições
 
 ## Pendências (resolver com o jogador)
 
-- [ ] **Sistema:** Deathwatch (recomendado) ou Wrath & Glory.
-- [ ] **Legião** (gene-seed define a ficha, o temperamento herdado e a
-  campanha). As 18:
-  I Dark Angels (Leão El'Jonson) · III Filhos do Imperador (Fulgrim) ·
-  IV Guerreiros de Ferro (Perturabo) · V Cicatrices Brancas (Jaghatai
-  Khan) · VI Lobos Espaciais (Leman Russ) · VII Punhos Imperiais (Rogal
-  Dorn) · VIII Senhores da Noite (Konrad Curze) · IX Anjos Sanguinários
-  (Sanguinius) · X Mãos de Ferro (Ferrus Manus) · XII Devoradores de
-  Mundos (Angron) · XIII Ultramarines (Roboute Guilliman) · XIV Guarda da
-  Morte (Mortarion) · XV Mil Filhos (Magnus, o Vermelho) · XVI Luna
-  Wolves (Horus) · XVII Word Bearers (Lorgar) · XVIII Salamandras
-  (Vulkan) · XIX Raven Guard (Corax) · XX Alpha Legion (Alpharius).
-  *(II e XI estão expurgados dos registros.)*
-- [ ] **Data de início:** 998.M30 (padrão recomendado), antes (~950.M30)
-  ou véspera de Ullanor (999.M30).
-- [ ] **Matiz das memórias:** só sonhos / sonhos + 1 eco mecânico por
-  sessão / instinto puro sem mecânica.
-- [ ] **Nome do neófito** (e mundo de recrutamento — pode ser da Legião
-  escolhida ou um mundo conquistado na Cruzada).
+- [x] **Sistema:** **Deathwatch (FFG)** ✅ (Turno 4).
+- [x] **Data de início:** ~**950.M30** ✅ (Turno 4).
+- [x] **Matiz das memórias:** **só instinto** ✅ — sem sonhos narrados e
+  sem mecânica; o jogador sabe, o personagem sente inexplicável (Turno 4).
+- [ ] **Legião** — cardápio completo em `07-legioes.md`.
+- [ ] **Nome do neófito** (com a Legião escolhida, eu proponho o conjunto:
+  nome do mundo, nome de guerra, esquadrão).
 - [ ] **Mortalidade:** Warhammer ALTA (assumida) — confirmar.
 
 ## Registro de decisões da mesa

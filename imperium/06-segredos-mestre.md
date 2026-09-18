@@ -23,13 +23,20 @@
   como heresia/psicose na Verdade Imperial. Se quiser jogar esse jogo,
   será jogando DENTRO da lore — provas, risco e preço.
 
-## Estado do arco (a preencher após as escolhas)
+## Estado do arco
 
+- **Sistema:** Deathwatch (FFG) ✅ — ficha de neófito a montar após a
+  Legião (adaptação de casa em `03`).
+- **Data de início:** ~**950.M30** ✅ — meio da Cruzada. Consequências:
+  Monarchia (964–965) pode ocorrer EM JOGO; Curze e Alpharius ainda não
+  foram encontrados; o Imperador ainda acompanha as frotas em pessoa.
+- **Memórias:** só instinto ✅ — NUNCA narrar sonhos; o PJ sente
+  "instintos inexplicáveis" apenas quando o jogador declarar que usa o
+  know-how. NPCs nada sabem; a lore não fornece porta amigável se
+  exposto.
 - Legião escolhida: ______ (→ escrever "Caderno da Legião": gene-seed,
   temperamento herdado, peculiaridades, planetas, nomes High Gothic,
-  frota expedicionária, esquadrão de neófitos).
-- Data de início: ______ (padrão 998.M30).
-- Sistema: ______ (Deathwatch recomendado).
+  frota expedicionária, esquadrão de neófitos, o lote, o Apotecário).
 
 ## Relógio da galáxia (cânon — corre sempre)
 
