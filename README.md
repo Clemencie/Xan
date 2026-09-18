@@ -1,37 +1,34 @@
-# Vespera — a mesa
+# Mesa da Grande Cruzada — Warhammer 40K, pré-Heresia
 
-Este repositório guarda uma campanha de RPG de mesa (**GURPS 4ª edição**,
-cenário futurista), mestrada por um agente para um jogador humano. Tudo que
-importa vive em [`vespera/`](vespera/).
+Campanha de RPG de mesa (**Warhammer 40.000, século 30 — antes da Heresia
+do Horus**), mestrada por um agente para um jogador humano. Fidelidade à
+lore é lei da mesa; datas canônicas conferidas (Lexicanum/wiki, set/2026).
 
-## Mapa da memória
+## Mapa da memória (`imperium/`)
 
 | Arquivo | O que é |
 |---|---|
-| `vespera/00-MEMORIA.md` | Protocolo do mestre — **leia primeiro** |
-| `vespera/01-universo.md` | Cânone: da Centelha (Ano 1) ao presente (Ano 6.047) |
-| `vespera/02-alvora-baixada.md` | A cidade onde a campanha começa |
-| `vespera/03-povos-e-racas.md` | Raças (estilo Pathfinder), custos GURPS, vida média |
-| `vespera/04-npcs.md` | Quem vive na Baixada — desejos, medos, rotinas |
-| `vespera/05-regras-da-mesa.md` | Combinados, mecânica, **ano de nascimento** |
-| `vespera/06-ficha-pj.md` | Ficha do personagem do jogador |
-| `vespera/07-cronica.md` | Crônica viva — tudo que aconteceu na mesa |
-| `vespera/08-segredos-mestre.md` | **Somente mestre.** Segredos e relógio da campanha |
-| `vespera/rolar.py` | Dados oficiais da mesa (aleatoriedade criptográfica) |
+| `imperium/00-MEMORIA.md` | Protocolo do mestre — **leia primeiro** |
+| `imperium/01-universo-40k.md` | O Imperium, a Grande Cruzada, datas canônicas |
+| `imperium/02-astartes.md` | A criação do Astartes: 19 órgãos, estado do PJ, regras das memórias |
+| `imperium/03-sistema.md` | Deathwatch (recomendado) / Wrath & Glory + pendências |
+| `imperium/04-npcs.md` | NPCs (a preencher após a escolha da Legião) |
+| `imperium/05-cronica.md` | Crônica viva — histórico completo da mesa |
+| `imperium/06-segredos-mestre.md` | **Somente mestre** |
+| `imperium/rolar.py` | Dados oficiais (entropia criptográfica) |
 
 ## Rolar dados
 
 ```bash
-python3 vespera/rolar.py                # 3d6 solto
-python3 vespera/rolar.py 3d6 12         # teste contra Habilidade 12
-python3 vespera/rolar.py 3d6 12 14      # confronto rápido 12 × 14
-python3 vespera/rolar.py 2d6+1          # expressão livre NdN±M
-python3 vespera/rolar.py 3d6 14 --n 4   # quatro testes
+python3 imperium/rolar.py 1d100 55      # teste d100 contra 55 (graus a cada 10)
+python3 imperium/rolar.py 1d100 55 40   # teste oposto 55 × 40
+python3 imperium/rolar.py 8d6 --wng     # pool Wrath & Glory (Dado de Fúria)
+python3 imperium/rolar.py 2d10+10       # dano de bolter (expressão livre)
 ```
 
 ## Estado atual
 
-Presente da campanha: **14 de abril de Ano 6.047 da Alvorada**, Baixada de
-Alvora, planeta Cindra. PJ em criação — faltam: **raça, ano de nascimento,
-molde/conceito, nome e mortalidade** (detalhes em `vespera/05-regras-da-mesa.md
-§ Pendências`).
+PJ em criação: **Astartes neófito** (lote 6–9 implantado), memórias de
+outra vida como fundo. Faltam: **Legião, sistema, data de início, matiz
+das memórias, nome** — ver `imperium/03-sistema.md § Pendências`.
+Primeira cena planejada: o despertar no Apotecarion.

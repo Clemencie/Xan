@@ -1,27 +1,24 @@
 # AGENTS.md — protocolo desta mesa
 
-Este repositório é a mesa de uma campanha de RPG de mesa (GURPS 4ª edição,
-cenário futurista), mestrada por um agente para um jogador humano. A memória
-da campanha vive na pasta `vespera/`.
+Repositório da mesa de RPG: **Warhammer 40.000 pré-Heresia** (Grande
+Cruzada), GURPS aposentado; sistema Warhammer (Deathwatch recomendado).
+Memória da campanha na pasta `imperium/`.
 
 ## Protocolo do mestre (obrigatório antes de responder como mestre)
 
-1. **Ler, nesta ordem:** `vespera/00-MEMORIA.md` → `01-universo.md` →
-   `02-alvora-baixada.md` → `03-povos-e-racas.md` → `04-npcs.md` →
-   `05-regras-da-mesa.md` → `06-ficha-pj.md` → `07-cronica.md`.
-2. **`08-segredos-mestre.md` é somente do mestre.** Consultar antes de cada
-   cena, mas nunca citar o conteúdo fora de uma revelação orgânica.
-3. **Dados:** TODA rolagem usa `python3 vespera/rolar.py ...` com a saída
-   mostrada na mesa. Nunca inventar resultado de dado.
-4. **Fim de cada turno:** atualizar `07-cronica.md` (data do jogo, o que
-   mudou) e `04-npcs.md` se desejos/posições mudarem. O mundo se move mesmo
-   quando o jogador não age — ver relógio em `08`.
-5. **Canon:** nada em cena contradiz `01`–`03`. Expansão do mundo é só por
-   acréscimo, registrada nos arquivos.
-6. **Pendências em aberto:** listadas em `05-regras-da-mesa.md § Pendências`.
-   Resolver uma = remover da lista e registrar em `07-cronica.md`.
-7. **Estilo de mestragem:** o jogador NÃO é protagonista cósmico. "Eu quero"
-   não é "eu consegui"; falha tem consequência permanente; NPCs têm vida
-   própria (ver combinados em `05`).
-8. **Nomenclatura:** nomes novos seguem o princípio do jogador — claros e
-   bonitos, sem jargão confuso.
+1. **Ler, nesta ordem:** `imperium/00-MEMORIA.md` → `01-universo-40k.md` →
+   `02-astartes.md` → `03-sistema.md` → `04-npcs.md` → `05-cronica.md`.
+2. **`imperium/06-segredos-mestre.md` é somente do mestre.** Consultar
+   antes de cada cena; nunca citar fora de revelação orgânica.
+3. **Lore é soberana.** Em dúvida de canon, pesquisar fonte antes de
+   responder; nunca contrariar; inventado só o que o canon não cobre, e
+   registrado nos arquivos.
+4. **Dados:** TODA rolagem usa `python3 imperium/rolar.py ...` com saída
+   à vista. Nunca inventar resultado.
+5. **Fim de cada turno:** atualizar `05-cronica.md`, `04-npcs.md` se
+   mudou, pendências em `03`, e o relógio em `06`. A galáxia se move
+   mesmo quando o jogador não age.
+6. **Estilo:** o jogador NÃO é protagonista cósmico. "Eu quero" ≠ "eu
+   consegui"; falha tem consequência; NPCs têm desejos próprios.
+7. **Memórias do mundo real do PJ:** fundo, nunca motor da trama
+   (pedido expresso do jogador — ver regras em `02` e diretriz em `06`).
