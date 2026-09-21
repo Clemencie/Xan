@@ -38,22 +38,59 @@
   temperamento herdado, peculiaridades, planetas, nomes High Gothic,
   frota expedicionária, esquadrão de neófitos, o lote, o Apotecário).
 
+## Caderno da Legião (IX)
+
+- **Metodologia:** implantação em massa + Sono de Baal (canon). O lote do
+  PJ: **cinco sobreviventes** de três centenas de aspirantes das provas
+  de sangue de Baal. Dormiram ~um ano; Thero San acordou duas semanas
+  antes do PJ; dois ainda dormem (um *demais* — ver relógio).
+- **A Sede:** adormecida e sem nome nesta era. Kaerus Vahl mantém um
+  livro que nunca segue para a frota-mestre — anotações de lotes que
+  despertam "nítido demais". Se o PJ falhar WP com sangue, o livro ganha
+  uma linha.
+- **Gene do Anjo:** WS/Fel altos; a Legião vive de estética — brasões,
+  cerimônia, o sangue de Sanguinius como dignidade. Neófitos não usam
+  insígnia de asa até a Carapaça.
+
+## O teatro: o clã-estelar de Sarquil (verdade de mestre)
+
+- Cinco mundos humanos da Era da Luta, presos no escuro por séculos,
+  sobrevivendo por causa de **a Malha**: uma rede de inteligências
+  artificiais pré-Imperium que dirige motores de terraformação, climas e
+  colheitas — e esconde os mundos do céu (a compliance chegou por
+  astropata antes de chegar por navio).
+- **A Regência do Espinho** (teocracia-guilda dos "salvadores") rende os
+  céus, não o chão: quer tratado com isenção da Malha. Para o Mechanicum,
+  a Malha é **Silica Animus** — anátema, fogo imediato. Para os mundos,
+  apagar a Malha é desligar respiradores.
+- **A pergunta da campanha:** o que faz um Anjo quando a obediência e o
+  socorro apontam para lados opostos? Problema puro de 30K — a Verdade
+  Imperial não tem resposta boa.
+- **Nada de Caos aqui.** A corrupção desta história é moral e
+  burocrática, não warp. (A Heresia chega no tempo dela: 004–005.M31.)
+
 ## Relógio da galáxia (cânon — corre sempre)
 
-| Quando | O que acontece (seja lá onde o PJ estiver) |
+| Quando | O que acontece |
 |---|---|
-| 999.M30 | Pacificação de Ark Reach Secundus; a Cruzada respira antes do golpe final. |
-| 000.M31 | **Ullanor** — a maior vitória da Cruzada; **Triunfo**; Horus nomeado Warmaster; o Imperador volta a Terra. A galáxia muda de dono sem trocar de bandeira. |
-| 001.M31 | **Concílio de Nikaea** — o destino dos psykers das Legiões em julgamento. |
-| 003.M31 | Luna Wolves → Sons of Horus. Sinais finos para quem souber olhar. |
-| 004–005.M31 | Davin. Prospero arde. E então: **Isstvan III (005.M31) — a Heresia começa.** |
+| 964–965.M30 | Monarchia arrasada; Lorgar cai de joelhos (longe de vocês — eco na frota: "a XVII mudou"). |
+| 981–984.M30 | Alpharius assume a XX; Nostramo destruído. Sinais para quem souber olhar. |
+| 000.M31 | **Ullanor e o Triunfo**; Horus nomeado Warmaster; o Imperador volta a Terra. |
+| 001.M31 | **Concílio de Nikaea** — os psykers em julgamento. |
+| 004–005.M31 | Davin. Prospero arde. **Isstvan III (005.M31) — a Heresia começa.** O PJ vai viver isso — de um lado ou do outro, vivo ou morto, com nome. |
 
-*Nota do mestre: o PJ vai VIVER o século 31. O que ele será quando a
-galáxia rachar — leal, cético, ferido, dos dois lados — é o jogo.*
+## Relógio da campanha (semanas; corre sem o PJ)
+
+| Quando | O que acontece |
+|---|---|
+| **+2 dias** | Primeira revista do lote; treino de sangue no salão 7. |
+| **+5 dias** | Primeira operação: redução do anel orbital de Sarquil Tertia (neófitos no vácuo, carapaça leve — fogo real). |
+| **+20 dias** | O Heraldo Vahn oferece o tratado (Malha fora do acordo). A frota se parte: Mechanicum exige fogo, a Regência exige palavra; o Mestre da Frota quer resposta antes da queda em massa. |
+| **+40 dias** | Um dos dois "dorminhocos demais" do lote desperta *diferente* — Kaerus Vahl tranca o Apotecarion por dois dias. |
 
 ## Primeira cena (planejada)
 
-O despertar no Apotecarion: mesa de operação, luz cirúrgica, o Apotecário
-anotando. Corpo novo por dentro, duas vidas na cabeça. Nada de exposição:
-a cena ensina o que ele é pelo corpo, não por aula. Fim da cena: ordem
-real (o lote de neófitos é chamado — a Cruzada não espera).
+O despertar do Sono de Baal: gel morno, suturas, o cheiro do próprio
+sangue novo, o escuro que agora é legível. Kaerus Vahl conta dois
+batimentos e faz a única pergunta que importa: **"Diga seu nome."**
+(Encerra com a escolha do jogador.)

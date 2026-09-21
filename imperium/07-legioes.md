@@ -48,5 +48,5 @@
 
 ## Pendência
 
-- [ ] **Legião:** escolha pelo número ou nome — e, se quiser, diga o
-  "porquê" (ela entra como cor do personagem).
+- [x] **Legião: IX — Anjos Sanguinários** ✅ (Turno 5) — metodologia da
+  IX aplicada; teatro: 187ª Frota, Sarquil (ver `04` e `06`).

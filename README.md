@@ -28,7 +28,8 @@ python3 imperium/rolar.py 2d10+10       # dano de bolter (expressão livre)
 
 ## Estado atual
 
-Sistema **Deathwatch** ✅ · início **~950.M30** ✅ · memórias **só
-instinto** ✅. PJ em criação: **Astartes neófito** (lote 6–9 implantado).
-Faltam: **Legião** (cardápio completo em `imperium/07-legioes.md`) e
-**nome**. Primeira cena planejada: o despertar no Apotecarion.
+Legião **IX — Anjos Sanguinários** ✅ · sistema **Deathwatch** ✅ · início
+**~950.M30** ✅ · memórias **só instinto** ✅. PJ: neófito da IX, despertou
+do Sono de Baal na *Dawnwing* (187ª Frota, teatro de Sarquil). Ficha em
+`imperium/02-astartes.md`. Falta: **nome** (a primeira cena termina com a
+pergunta do Apotecário) e confirmação da mortalidade.

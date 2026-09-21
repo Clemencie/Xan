@@ -53,11 +53,13 @@ python3 imperium/rolar.py 3d10 --n 4    # repetições
 
 - [x] **Sistema:** **Deathwatch (FFG)** ✅ (Turno 4).
 - [x] **Data de início:** ~**950.M30** ✅ (Turno 4).
-- [x] **Matiz das memórias:** **só instinto** ✅ — sem sonhos narrados e
-  sem mecânica; o jogador sabe, o personagem sente inexplicável (Turno 4).
-- [ ] **Legião** — cardápio completo em `07-legioes.md`.
-- [ ] **Nome do neófito** (com a Legião escolhida, eu proponho o conjunto:
-  nome do mundo, nome de guerra, esquadrão).
+- [x] **Matiz das memórias:** **só instinto** ✅ (Turno 4).
+- [x] **Legião:** **IX — Anjos Sanguinários** ✅ (Turno 5). Metodologia
+  canônica da IX aplicada: implantação em massa + Sono de Baal; ficha de
+  neófito montada em `02`.
+- [ ] **Nome do neófito** (propostas: **Ashurael**, **Koriel San**,
+  **Vaal Dorhen** — ou um seu; todos cidadãos de Baal ou dos mundos de
+  sangue).
 - [ ] **Mortalidade:** Warhammer ALTA (assumida) — confirmar.
 
 ## Registro de decisões da mesa

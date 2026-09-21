@@ -27,6 +27,22 @@
   zero = morte). Criado o povo **Errante** (50 pts), fachadas propostas
   (Inquilino/Recém-Chegado/Vulto). Nascimento na Era dos Reinos.
 
+## Turno 5 — fora do jogo (18/09/2026)
+
+- **Legião escolhida: IX — Anjos Sanguinários** ✅. Aplicada a
+  metodologia canônica da IX: implantação em massa (18/19 órgãos) +
+  **Sono de Baal** — o PJ desperta do Sono, neófito completo de corpo,
+  incompleto de ofício (sem Carapaça Negra, sem armadura de poder).
+- **Ficha Deathwatch de neófito montada** em `02` (S/T 40 Unnatural ×2,
+  WS/BS 33, Fel 42; pacote completo de órgãos; carapaça leve AP 4;
+  regra de casa adormecida: **a Sede**).
+- **Teatro construído:** 187ª Frota Expedicionária, nave-mãe **Dawnwing**,
+  clã-estelar de **Sarquil** (5 mundos da Era da Luta protegidos por "a
+  Malha" — IA pré-Imperium, anátema do Mechanicum). NPCs registrados em
+  `04`. Relógios (galáxia + campanha) e segredos em `06`.
+- **Falta:** nome (a primeira cena termina com a pergunta do Apotecário)
+  e confirmação da mortalidade.
+
 ## Turno 4 — fora do jogo (18/09/2026)
 
 - **Escolhas do jogador:** sistema **Deathwatch (FFG)** ✅; início

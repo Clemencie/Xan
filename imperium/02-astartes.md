@@ -43,25 +43,68 @@ mais de uma vez.
 processo quase inteiro de uma vez; os Ultramarines vão órgão a órgão).
 Em tempos de guerra, acelera-se — com rejeição, loucura e morte no lote.*
 
-## O seu estado (a ficha em andamento)
+## O seu estado (a ficha em andamento) — GENE-SEED DA IX: ANJOS SANGUINÁRIOS
 
-Você **acordou no Apotecarion** — mesa de operação, ainda cheiro de
-cauterização — depois de receber o lote das **fases 6–9**: Nó Catalepseano,
-Preomnor, Omophagea e Pulmão Múltiplo. Ou seja:
+A IX não implanta em fases. **Os 18 primeiros órgãos entram quase de uma
+vez**, numa única maratona cirúrgica — a rejeição mata a maioria — e o
+que sobrevive é mergulhado no **Sono de Baal**: meses de hibernação em
+gel, com sonhos vívidos de asas, fogo e um rosto que você ainda não viu.
+Os Apotecários-Sacerdotes contam os que despertam tortos. Você despertou.
 
-- **Já tem no corpo (fases 1–9):** coração duplo, esqueleto reforçado,
-  músculo dobrado, sangue de oxigênio, cicatrização de Astartes, meio-sono,
-  estômago de abutre, memória por carne, respiração de pobres-ambientes.
-- **Falta (fases 10–19):** Occulobe, Lyman, Sus-an, Rim, Neuroglottis,
-  Melanchromic, Betcher, Progenoides, Carapaça Negra. **Sem Carapaça, sem
-  armadura de poder** — você serve como **neófito** com armadura pesada
-  comum (não integral) e armas de treino/batalha básicas.
-- **Progressão da ficha = as cirurgias seguintes.** Cada fase recuperada
-  em mesa é um marco de XP e um pedaço novo de transumano (regras em
-  `03-sistema.md`).
-- Idade biológica: ~15 anos (janela canônica de implantação). Legião:
-  **a definir** — e a Legião define gene-seed, temperamento herdado,
-  planeta-mãe, nomes, tudo (lista em `03-sistema.md § Pendências`).
+- **No corpo (18/19):** tudo — coração duplo, Ossmodula, Biscopea,
+  Haemastamen, Larraman, Catalepseano, Preomnor, **Omophagea** (memória
+  por carne), Pulmão Múltiplo, **Occulobe** (o escuro é legível),
+  **Orelha de Lyman**, **Membrana Sus-an**, Rim Oolítico, **Neuroglottis**
+  (rastreio por cheiro), Melanchromic, **Glândula Betcher** (saliva
+  ácida) e os **Progenoides** (pescoço madura em ~5 anos; peito em ~10).
+- **Falta 1 (a 19ª):** a **Carapaça Negra** — sem ela, sem armadura de
+  poder. Quando vier (marco de história), você deixa de ser neófito:
+  armadura integral, postos de linha, o direito de carregar o sangue da
+  Legião em campo.
+- **Transumano completo; guerreiro incompleto.** O corpo é de Anjo; o
+  ofício ainda não — você dormiu um ano em vez de treinar. WS/BS baixos,
+  corpo absurdo: é a sua assimetria de neófito.
+- **A Sede (rumor):** a Legião não fala nisso; os registros tampouco.
+  Você só sabe que o sangue de outra coisa, na guelra, faz o mundo ficar
+  *nítido demais* — e que ninguém te contou porque isso devia acontecer.
+  (Regra de mesa no bloco da ficha.)
+- **Asas na carne, não nas costas:** os sonhos do Sono são o seu
+  esconderijo perfeito — neófitos da IX acostumam todo mundo com sonhos
+  estranhos. Seus instintos de outra vida não chamam atenção aqui.
+
+### Ficha Deathwatch — Neófito da IX (adaptação de casa, fiel à era)
+
+| Característica | Valor |
+|---|---|
+| Armas Corpo a Corpo (WS) | **33** |
+| Armas de Fogo (BS) | **33** |
+| Força (S) | **40 — Unnatural ×2** |
+| Resistência (T) | **40 — Unnatural ×2** |
+| Agilidade (AG) | **40** |
+| Inteligência (Int) | **35** |
+| Percepção (Per) | **38** |
+| Vontade (WP) | **40** |
+| Carisma (Fel) | **42** *(a IX fala como um anjo)* |
+
+- **Wounds:** 24 · **Movimento:** 3/6/9/18 · **Sem Fate points (neófito —
+  o primeiro é o marco da Carapaça).**
+- **Pacote de órgãos (efeitos em jogo):** visão no escuro real;
+  rastreio por cheiro/falas de Neuroglottis (+20 em Rastrear); meio-sono
+  Catalepseano (semanas sem dormir, com custo); Membrana Sus-an (coma
+  voluntário); Betcher (cospe ácido: trava/metal macio); Preomnor+Rim
+  (come quase tudo, filtra veneno); Omophagea (Int 35: carne de inimigo
+  rende fragmentos de memória); Larraman (cura acelerada: 1 W/hora de
+  descanso); coração duplo (resistir a sufocamento/ferimento cardíaco
+  +30); Progenoides (o tesouro — morrer bem ainda vale dois gene-seeds).
+- **Equipamento de neófito:** carapaça leve de recruta (AP 4, todos os
+  locais), pistola-bolt (1d10+5, Pen 4), lâmina de combate, 2 frag.
+  *(O bolter e a espada de corrente se ganham por feito em campo.)*
+- **A Sede (regra de casa, adormecida):** sangue de inimigo bebido em
+  fúria → teste de WP 40. Falha: a cena fica *nítida demais* — bônus
+  físico agora, conta depois. A Legião oficialmente não tem falha nenhuma.
+- **Progressão:** XP vem de feito e cena (1–2/sessão); marcos: Carapaça
+  Negra → armadura de poder + Fate 1; feito de campo → bolter; escolha
+  de especialização → posto na linha.
 
 ## As memórias de outra vida (regras)
 
