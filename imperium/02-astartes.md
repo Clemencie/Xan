@@ -72,7 +72,11 @@ Os Apotecários-Sacerdotes contam os que despertam tortos. Você despertou.
   esconderijo perfeito — neófitos da IX acostumam todo mundo com sonhos
   estranhos. Seus instintos de outra vida não chamam atenção aqui.
 
-### Ficha Deathwatch — Neófito da IX (adaptação de casa, fiel à era)
+### Ficha Deathwatch — NEÓFITO LUCIFER, da IX (adaptação de casa, fiel à era)
+
+> **Nome:** Lucifer — registrado por Kaerus Vahl como "gótico antigo de
+> Terra: *aquele que traz a luz*". O PJ não sabe o peso; o jogador sim
+> (lei da mesa: as memórias são do jogador, os instintos são do PJ).
 
 | Característica | Valor |
 |---|---|

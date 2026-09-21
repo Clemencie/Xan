@@ -71,12 +71,11 @@
 - [ ] `08-segredos-mestre.md` — marcar ✅ o que foi revelado; adiantar o
   relógio.
 
-## Estado da mesa (uma linha, atualize a cada turno)
+- **Estado da mesa (uma linha, atualize a cada turno)**
 
-- **Data no jogo:** ~**950.M30** — meio da Grande Cruzada; 16 Primarcas
-  encontrados (faltam Curze e Alpharius); Imperador ainda em campanha.
-- **Sistema:** **Deathwatch (FFG)** ✅ (d100, graus de sucesso; adaptação
-  de neófito em `03`).
-- **Memórias do mundo real:** **só instinto** ✅ — sem sonhos narrados,
-  sem mecânica; o jogador sabe, o personagem sente.
-- **PJ:** em criação — faltam **Legião** (ver `07`) e **nome**.
+- **Data no jogo:** dia do despertar, ~950.M30 — Dawnwing, 187ª Frota,
+  Sarquil Tertia em aproximação final.
+- **PJ:** **Lucifer**, neófito da IX, ficha completa em `02`. Campanha em
+  curso (primeira cena em andamento).
+- **Pendências:** nenhuma pendente de criação. Próximos marcos: revista
+  do lote (+2 dias), primeira operação (+5 dias).

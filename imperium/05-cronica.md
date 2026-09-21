@@ -27,6 +27,19 @@
   zero = morte). Criado o povo **Errante** (50 pts), fachadas propostas
   (Inquilino/Recém-Chegado/Vulto). Nascimento na Era dos Reinos.
 
+## Turno 6 — fora do jogo (19/09/2026)
+
+- **Primeira cena iniciada:** despertar do Sono de Baal na Dawnwing
+  (Apotecarion; Kaerus Vahl conta dois corações).
+- **Nome do PJ: Lucifer** ✅ (escolha do jogador) — registrado em cena
+  como gótico antigo de Terra, "porta-luz". O peso irônico do nome fica
+  do lado do jogador (lei das memórias). Aprovado como nome gothico
+  plausível.
+- **Mortalidade: Warhammer ALTA** ✅ confirmada.
+- **Cena em andamento:** protocolo pós-Sono, primeiro corpo novo,
+  apresentação do lote no salão 7 à hora sétima; jogador escolhe a
+  primeira ação do Lucifer consciente.
+
 ## Turno 5 — fora do jogo (18/09/2026)
 
 - **Legião escolhida: IX — Anjos Sanguinários** ✅. Aplicada a

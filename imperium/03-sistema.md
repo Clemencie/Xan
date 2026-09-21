@@ -57,10 +57,10 @@ python3 imperium/rolar.py 3d10 --n 4    # repetições
 - [x] **Legião:** **IX — Anjos Sanguinários** ✅ (Turno 5). Metodologia
   canônica da IX aplicada: implantação em massa + Sono de Baal; ficha de
   neófito montada em `02`.
-- [ ] **Nome do neófito** (propostas: **Ashurael**, **Koriel San**,
-  **Vaal Dorhen** — ou um seu; todos cidadãos de Baal ou dos mundos de
-  sangue).
-- [ ] **Mortalidade:** Warhammer ALTA (assumida) — confirmar.
+- [x] **Nome do neófito:** **Lucifer** ✅ (Turno 6) — gótico antigo de
+  Terra, "porta-luz"; cor registrada no Apotecarion.
+- [x] **Mortalidade:** **Warhammer ALTA** ✅ (Turno 6) — a galáxia mata
+  gente melhor que você todo dia.
 
 ## Registro de decisões da mesa
 
