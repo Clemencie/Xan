@@ -80,3 +80,45 @@ sessão/objetivos (padrão: 5–10). Custos: +1 posto de perícia = 2×(novo pos
 +1 atributo = 4×(novo valor) XP; talentos = 10–40 XP. Ao acumular poder suficiente e feitos
 à altura, o Mestre oferece a **Ascensão ao Tier 3** (Veterano — armadura de veterano, crux,
 comando de esquadra…).
+
+## Apêndice A — O que cada perícia faz (você escolhe onde investir)
+
+Regra: cada ponto = +1 posto (máx. 3 na criação). Perícia zerada ainda pode ser rolada com
+**só o atributo**. O Mestre pode trocar o atributo conforme sua abordagem
+(ex.: Intimidation com Strength para esmagar um capacete na mão).
+
+| Perícia | Atributo típico | O que faz no jogo |
+|---|---|---|
+| Athletics | Strength | Correr, saltar, escalar, nadar, arrombar; base de investidas e movimento sob fogo |
+| Awareness | Intellect | Notar emboscadas, armadilhas, detalhes; define Passive Awareness (metade, p/ cima) |
+| Ballistic Skill | Agility | TODAS as armas de tiro; fogo de supressão |
+| Cunning | Intellect | Esperteza: truques, golpes, avaliar esquemas, trapaça e jogo sujo |
+| Deception | Fellowship | Mentir, disfarçar-se, enganar, infiltrar-se socialmente |
+| Insight | Fellowship | Ler pessoas: detectar mentiras, intenções, medo |
+| Intimidation | Willpower (ou Strength) | Amedrontar; funciona como **ataque de interação** no combate |
+| Investigation | Intellect | Examinar cenas, juntar pistas, deduzir, interrogar método |
+| Leadership | Fellowship (ou Willpower) | Comandar, inspirar, coordenar tropas e mortais |
+| Medicae | Intellect | Primeiros socorros, estabilizar moribundos, drogas de combate |
+| Persuasion | Fellowship | Convencer, negociar, acalmar; **ataque de interação** no combate |
+| Pilot | Agility | Pilotar motos, speeders, Thunderhawks atmosféricos |
+| Scholar | Intellect | Saber: história, tática teórica, xenos, Warp, rituais |
+| Stealth | Agility | Mover-se sem ser visto/ouvido; emboscadas |
+| Survival | Willpower | Aguentar ambiente hostil, rastrear, forragear, marchas forçadas |
+| Tech | Intellect | Operar/reparar tecnologia, auspex, invadir sistemas, ritos do Mechanicum |
+| Weapon Skill | Initiative | TODAS as armas corpo a corpo (espadas, machados, punhos) |
+
+## Apêndice B — O que cada talento faz (você escolhe 2)
+
+| Talento | Efeito mecânico | Bom para |
+|---|---|---|
+| Defensor da Humanidade | +Rank ícones automáticos em ataques com sucesso contra multidões (Mobs) | Quem enfrenta hordas |
+| Ponta da Lança | +1d em testes de investida/assalto; +1 de dano em investidas | **Assalto** |
+| Olho de Caçador | Ignora 1 pt de penalidade de alcance/cobertura no tiro | Tático/Devastador |
+| Duro de Matar | +1 Wound máximo | Linha de frente |
+| Vontade de Ferro | +1d em testes de Medo e Sussurros do Warp | Todos (a Heresia cobra…) |
+| Exemplo do Primarca | Aliados a até 10 m ganham +1d em moral/medo | Líderes |
+| Filho da Forja | +2d em Tech p/ reparar/usar equipamento da Legião; começa com kit de servo-braço | Techmarine-aspirante |
+| Médico de Campo | +2d em Medicae; começa com narthecium de campanha | Apotecário-aspirante |
+
+Talentos de Legião (fúria dos Wolves, disciplina dos Fists etc.) serão oferecidos pelo Mestre
+conforme sua escolha de Legião — como opções, não imposições.
