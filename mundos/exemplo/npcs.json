@@ -1,0 +1,704 @@
+[
+  {
+    "nome": "Zou Tai Hao",
+    "sexo": "masculino",
+    "idade": 61,
+    "raca": "humano",
+    "ocupacao": "Mestre de seita",
+    "faccao": "Seita do LingJia",
+    "posto": "Convidado",
+    "localizacao": "BingZhou",
+    "nivel": 5,
+    "caminho": "xiandao",
+    "lei": "SETE_MASSACRES",
+    "atributos": {
+      "per": 11,
+      "con": 14,
+      "cha": 13,
+      "int": 14,
+      "luk": 14,
+      "pot": 15
+    },
+    "pericias": {
+      "estrategia": 1,
+      "sobrevivencia": 2,
+      "navegacao": 2,
+      "corpo_de_ferro": 1,
+      "leitura_de_pessoas": 2
+    },
+    "virtudes": {
+      "ren": 6,
+      "yi": 8,
+      "li": 8,
+      "zhi": 9,
+      "xin": 3
+    },
+    "temperamento": "qian",
+    "tracos": [
+      "JOVEM_MESTRE_ARROGANTE",
+      "COBRADOR_DE_DIVIDAS",
+      "ANFITRIAO_PERFEITO",
+      "SEGREDO_GUARDADO"
+    ],
+    "desejos": {
+      "imediato": "Recrutar os personagens para uma escolta",
+      "ambicao": "Unificar o Murim sob uma única aliança",
+      "obsessao": "Não suporta ver sangue derramado em terreno sagrado",
+      "medo": "Multidões olhando",
+      "dever": "Para com um deus que exige fé diária",
+      "segredo": "Ama alguém de uma facção inimiga",
+      "linha_vermelha": "Nunca ataca pelas costas",
+      "preco": "Um lugar para pertencer"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "desperdicio",
+      "pureza": 5,
+      "mutacao": null
+    },
+    "face": 5,
+    "estado_mental": 46,
+    "pedras_espirituais": 1188,
+    "tecnicas": [
+      "LIVRE_PALMA_VENTANIA",
+      "LIVRE_PASSO_NUVEM",
+      "LIVRE_SENTIDO_QI",
+      "LIVRE_CURA_INTERNA",
+      "SM_AURA_ESPADA"
+    ],
+    "identificador": "90ffe953c203cc86dc2a53e595a11f2d"
+  },
+  {
+    "nome": "Lin Xiang",
+    "sexo": "feminino",
+    "idade": 38,
+    "raca": "humano",
+    "ocupacao": "Mestre de seita",
+    "faccao": "Seita do TianPai",
+    "posto": "Servo",
+    "localizacao": "YuDu",
+    "nivel": 5,
+    "caminho": "xiandao",
+    "lei": "ALQUIMIA_PRIMORDIAL",
+    "atributos": {
+      "per": 14,
+      "con": 10,
+      "cha": 13,
+      "int": 14,
+      "luk": 14,
+      "pot": 15
+    },
+    "pericias": {
+      "intimidacao": 2,
+      "bestas_espirituais": 1,
+      "lanca": 1,
+      "punho": 1,
+      "etiqueta": 1
+    },
+    "virtudes": {
+      "ren": 5,
+      "yi": 9,
+      "li": 5,
+      "zhi": 7,
+      "xin": 6
+    },
+    "temperamento": "qian",
+    "tracos": [
+      "PROTEGE_FRACOS",
+      "GUARDA_RANCOR"
+    ],
+    "desejos": {
+      "imediato": "Vender uma informação antes que ela estrague",
+      "ambicao": "Encontrar o imortal que salvou sua vida na infância",
+      "obsessao": "Não consegue mentir. Fisicamente.",
+      "medo": "Um homem específico que ele já viu uma vez",
+      "dever": "Para com os discípulos que dependem dele",
+      "segredo": "Traiu uma vez e ninguém nunca soube",
+      "linha_vermelha": "Nunca luta contra o próprio mestre",
+      "preco": "A liberdade de alguém que ele ama"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "desperdicio",
+      "pureza": 30,
+      "mutacao": null
+    },
+    "face": 3,
+    "estado_mental": 63,
+    "pedras_espirituais": 72,
+    "tecnicas": [
+      "LIVRE_PALMA_VENTANIA"
+    ],
+    "identificador": "42e5ab6467d87dba90894a515a6269e9"
+  },
+  {
+    "nome": "Yang Xuan Lingxiao",
+    "sexo": "neutro",
+    "idade": 50,
+    "raca": "humano",
+    "ocupacao": "Cortêsã informante",
+    "faccao": "Império Nan",
+    "posto": "Chefe de Ramo",
+    "localizacao": "YuDu",
+    "nivel": 6,
+    "caminho": "marcial",
+    "lei": "DEMONIO_CELESTIAL",
+    "atributos": {
+      "per": 11,
+      "con": 13,
+      "cha": 14,
+      "int": 18,
+      "luk": 10,
+      "pot": 17
+    },
+    "pericias": {
+      "duelo": 2,
+      "furtividade": 1,
+      "negociacao": 2,
+      "cajado": 2,
+      "jogos": 1
+    },
+    "virtudes": {
+      "ren": 4,
+      "yi": 2,
+      "li": 7,
+      "zhi": 4,
+      "xin": 3
+    },
+    "temperamento": "kan",
+    "tracos": [
+      "DUELISTA_VANIDOSO",
+      "ANFITRIAO_PERFEITO",
+      "BOCA_SOLTA",
+      "MEDICO_COMPASSIVO"
+    ],
+    "desejos": {
+      "imediato": "Humilhar publicamente um rival",
+      "ambicao": "Criar os filhos longe do Murim",
+      "obsessao": "Não consegue mentir. Fisicamente.",
+      "medo": "Perder o cultivo e voltar a ser mortal",
+      "dever": "Para com a seita, acima da própria vida",
+      "segredo": "Está morrendo: faltam menos de dois anos",
+      "linha_vermelha": "Nunca mata crianças — nem demônios crianças",
+      "preco": "Que alguém o chame de mestre, com sinceridade"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "terra"
+      ],
+      "grau": "amarelo",
+      "pureza": 32,
+      "mutacao": null
+    },
+    "face": 3,
+    "estado_mental": 63,
+    "pedras_espirituais": 1078,
+    "tecnicas": [
+      "LIVRE_PASSO_NUVEM",
+      "LIVRE_TRANSMISSAO_VOZ",
+      "DC_CHAMA_DEMONIO",
+      "DC_GARRA_SANGUE"
+    ],
+    "identificador": "44e9a7bceb16db7bceeec5216518b3b1"
+  },
+  {
+    "nome": "Li Ji",
+    "sexo": "neutro",
+    "idade": 30,
+    "raca": "humano",
+    "ocupacao": "Mestre de seita",
+    "faccao": "Seita LianDian de QianShan",
+    "posto": "Chefe de Ramo",
+    "localizacao": "QianShan",
+    "nivel": 5,
+    "caminho": "xiandao",
+    "lei": "CONQUISTA_NIMBO",
+    "atributos": {
+      "per": 14,
+      "con": 17,
+      "cha": 14,
+      "int": 11,
+      "luk": 15,
+      "pot": 16
+    },
+    "pericias": {
+      "folego_interno": 1,
+      "lanca": 1,
+      "intimidacao": 1,
+      "duelo": 2
+    },
+    "virtudes": {
+      "ren": 5,
+      "yi": 6,
+      "li": 5,
+      "zhi": 6,
+      "xin": 7
+    },
+    "temperamento": "xun",
+    "tracos": [
+      "CACADOR_DE_MANUAIS",
+      "PROFETA_AUTOPROCLAMADO"
+    ],
+    "desejos": {
+      "imediato": "Comprar uma erva específica, custe o que custar",
+      "ambicao": "Devolver ao mundo o que a família dele tirou",
+      "obsessao": "Só dorme com a arma na mão",
+      "medo": "Perder o cultivo e voltar a ser mortal",
+      "dever": "Para com o mestre que o tirou da sarjeta",
+      "segredo": "Sua Raiz Espiritual é uma mutação que ele esconde",
+      "linha_vermelha": "Nunca mente sobre o próprio nome",
+      "preco": "Um dia de vida a mais"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "desperdicio",
+      "pureza": 12,
+      "mutacao": null
+    },
+    "face": 3,
+    "estado_mental": 36,
+    "pedras_espirituais": 720,
+    "tecnicas": [
+      "LIVRE_ESCUDO_QI",
+      "CN_MARCHA_DAS_NUVENS"
+    ],
+    "identificador": "1688af8c95e9efa4acb5780392c4bd5d"
+  },
+  {
+    "nome": "Gongsun Tian Wu",
+    "sexo": "neutro",
+    "idade": 79,
+    "raca": "humano",
+    "ocupacao": "Mestre de seita",
+    "faccao": "Seita ShuiHui de YouHai",
+    "posto": "Mestre de Pavilhão",
+    "localizacao": "YouHai",
+    "nivel": 5,
+    "caminho": "xiandao",
+    "lei": "TAIYI_METAL",
+    "atributos": {
+      "per": 9,
+      "con": 16,
+      "cha": 14,
+      "int": 14,
+      "luk": 16,
+      "pot": 16
+    },
+    "pericias": {
+      "lanca": 1,
+      "corpo_de_ferro": 1,
+      "jogos": 2,
+      "alquimia": 1
+    },
+    "virtudes": {
+      "ren": 7,
+      "yi": 4,
+      "li": 8,
+      "zhi": 5,
+      "xin": 3
+    },
+    "temperamento": "dui",
+    "tracos": [
+      "MEDICO_COMPASSIVO",
+      "JOVEM_MESTRE_ARROGANTE",
+      "COBRADOR_DE_DIVIDAS"
+    ],
+    "desejos": {
+      "imediato": "Entregar uma carta sem saber o que ela contém",
+      "ambicao": "Ser lembrado como o maior espadachim da era",
+      "obsessao": "Precisa vencer cada duelo, mesmo os que não importam",
+      "medo": "Um homem específico que ele já viu uma vez",
+      "dever": "Para com uma promessa feita a um moribundo",
+      "segredo": "Guarda o mapa de uma ruína que já saqueou sozinho",
+      "linha_vermelha": "Nunca desobedece uma ordem direta do superior",
+      "preco": "A liberdade de alguém que ele ama"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "amarelo",
+      "pureza": 42,
+      "mutacao": null
+    },
+    "face": 1,
+    "estado_mental": 36,
+    "pedras_espirituais": 792,
+    "tecnicas": [
+      "LIVRE_PASSO_NUVEM",
+      "LIVRE_SENTIDO_QI",
+      "LIVRE_TRANSMISSAO_VOZ",
+      "GC_BUSSOLA"
+    ],
+    "identificador": "3928de665fe81d2f15b88a6b90b822d6"
+  },
+  {
+    "nome": "Tang Zhen Lin",
+    "sexo": "feminino",
+    "idade": 48,
+    "raca": "humano",
+    "ocupacao": "Daoísta de Wudang",
+    "faccao": "",
+    "posto": "Nenhum",
+    "localizacao": "ShuiTan",
+    "nivel": 0,
+    "caminho": "marcial",
+    "lei": null,
+    "atributos": {
+      "per": 15,
+      "con": 14,
+      "cha": 15,
+      "int": 8,
+      "luk": 10,
+      "pot": 15
+    },
+    "pericias": {
+      "corpo_de_ferro": 1,
+      "resistencia_a_veneno": 2,
+      "palma": 1,
+      "cozinha": 1
+    },
+    "virtudes": {
+      "ren": 5,
+      "yi": 7,
+      "li": 8,
+      "zhi": 8,
+      "xin": 6
+    },
+    "temperamento": "gen",
+    "tracos": [
+      "CORPO_DE_ACO",
+      "CACADOR_DE_MANUAIS",
+      "DUELISTA_VANIDOSO",
+      "ANFITRIAO_PERFEITO"
+    ],
+    "desejos": {
+      "imediato": "Descobrir quem o está seguindo",
+      "ambicao": "Curar uma doença que ninguém mais cura",
+      "obsessao": "Não pode ver um superior sendo injusto sem intervir",
+      "medo": "Alturas, apesar de saber voar",
+      "dever": "Para com um deus que exige fé diária",
+      "segredo": "Nunca formou o Núcleo — finge com truques e talismãs",
+      "linha_vermelha": "Nunca ataca pelas costas",
+      "preco": "A cabeça de um inimigo específico"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "desperdicio",
+      "pureza": 10,
+      "mutacao": null
+    },
+    "face": 5,
+    "estado_mental": 82,
+    "pedras_espirituais": 16,
+    "tecnicas": [
+      "LIVRE_PALMA_VENTANIA"
+    ],
+    "identificador": "53576c733e8c38bf7dd52ada7a4a1c37"
+  },
+  {
+    "nome": "Shangguan Die Lu",
+    "sexo": "neutro",
+    "idade": 61,
+    "raca": "humano",
+    "ocupacao": "Eremita da montanha",
+    "faccao": "",
+    "posto": "Nenhum",
+    "localizacao": "JinDong",
+    "nivel": 1,
+    "caminho": "marcial",
+    "lei": "PALMA_DRAGAO_PENG",
+    "atributos": {
+      "per": 11,
+      "con": 8,
+      "cha": 17,
+      "int": 14,
+      "luk": 17,
+      "pot": 15
+    },
+    "pericias": {
+      "formacoes": 1,
+      "resistencia_a_veneno": 2,
+      "cozinha": 2
+    },
+    "virtudes": {
+      "ren": 6,
+      "yi": 6,
+      "li": 5,
+      "zhi": 8,
+      "xin": 6
+    },
+    "temperamento": "dui",
+    "tracos": [
+      "VISIONARIO",
+      "NAO_MATA_MULHERES"
+    ],
+    "desejos": {
+      "imediato": "Comprar a liberdade de alguém",
+      "ambicao": "Fundar uma seita que dure mil anos",
+      "obsessao": "Registra cada morte que causa, em pedra ou papel",
+      "medo": "Ser esquecido por quem ama",
+      "dever": "Para com uma dívida de sangue ainda não paga",
+      "segredo": "Sua Raiz Espiritual é uma mutação que ele esconde",
+      "linha_vermelha": "Nunca mata crianças — nem demônios crianças",
+      "preco": "Um dia de vida a mais"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "desperdicio",
+      "pureza": 18,
+      "mutacao": null
+    },
+    "face": 4,
+    "estado_mental": 88,
+    "pedras_espirituais": 148,
+    "tecnicas": [
+      "LIVRE_CORTE_QI",
+      "LIVRE_PALMA_VENTANIA"
+    ],
+    "identificador": "8ff14446d3faf09a615c602a04069ba5"
+  },
+  {
+    "nome": "Song Yan Shu",
+    "sexo": "feminino",
+    "idade": 53,
+    "raca": "humano",
+    "ocupacao": "Besta espiritual em forma humana",
+    "faccao": "",
+    "posto": "Nenhum",
+    "localizacao": "BingZhou",
+    "nivel": 1,
+    "caminho": "marcial",
+    "lei": "PALMA_DRAGAO_PENG",
+    "atributos": {
+      "per": 14,
+      "con": 16,
+      "cha": 13,
+      "int": 12,
+      "luk": 9,
+      "pot": 7
+    },
+    "pericias": {
+      "folego_interno": 2,
+      "leitura_de_fengshui": 2,
+      "alquimia": 1
+    },
+    "virtudes": {
+      "ren": 5,
+      "yi": 4,
+      "li": 5,
+      "zhi": 5,
+      "xin": 8
+    },
+    "temperamento": "zhen",
+    "tracos": [
+      "VISIONARIO",
+      "ANDARILHO",
+      "SONHADOR"
+    ],
+    "desejos": {
+      "imediato": "Sair desta cidade antes que a seita chegue",
+      "ambicao": "Quebrar o ciclo de reencarnação de uma pessoa amada",
+      "obsessao": "Registra cada morte que causa, em pedra ou papel",
+      "medo": "Ficar sozinho para sempre",
+      "dever": "Para com uma promessa feita a um moribundo",
+      "segredo": "Sua Raiz Espiritual é uma mutação que ele esconde",
+      "linha_vermelha": "Nunca recusa abrigo a um perseguido",
+      "preco": "Que alguém o chame de mestre, com sinceridade"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "desperdicio",
+      "pureza": 1,
+      "mutacao": null
+    },
+    "face": 2,
+    "estado_mental": 74,
+    "pedras_espirituais": 20,
+    "tecnicas": [
+      "LIVRE_PALMA_VENTANIA"
+    ],
+    "identificador": "ea9387608ccda625ebc6c32a8e7c3a54"
+  },
+  {
+    "nome": "Hua Ling Yue",
+    "sexo": "feminino",
+    "idade": 83,
+    "raca": "humano",
+    "ocupacao": "Assassino de aluguel",
+    "faccao": "",
+    "posto": "Nenhum",
+    "localizacao": "QianShan",
+    "nivel": 0,
+    "caminho": "marcial",
+    "lei": null,
+    "atributos": {
+      "per": 15,
+      "con": 15,
+      "cha": 15,
+      "int": 11,
+      "luk": 13,
+      "pot": 11
+    },
+    "pericias": {
+      "sabre": 1,
+      "leitura_de_pessoas": 2,
+      "passos_leves": 1,
+      "palma": 1
+    },
+    "virtudes": {
+      "ren": 4,
+      "yi": 7,
+      "li": 5,
+      "zhi": 9,
+      "xin": 6
+    },
+    "temperamento": "dui",
+    "tracos": [
+      "EREMITA",
+      "ILUMINADO",
+      "COMERCIANTE_NATO"
+    ],
+    "desejos": {
+      "imediato": "Vender uma informação antes que ela estrague",
+      "ambicao": "Descobrir o que existe depois da Ascensão",
+      "obsessao": "Não suporta ver sangue derramado em terreno sagrado",
+      "medo": "Ser responsável pela morte de um inocente",
+      "dever": "Para com um irmão de juramento",
+      "segredo": "Matou o próprio irmão de seita por acidente e culpou outro",
+      "linha_vermelha": "Nunca quebra um juramento, nem sob tortura",
+      "preco": "Que alguém o chame de mestre, com sinceridade"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "desperdicio",
+      "pureza": 26,
+      "mutacao": null
+    },
+    "face": 3,
+    "estado_mental": 54,
+    "pedras_espirituais": 9,
+    "tecnicas": [
+      "LIVRE_PALMA_VENTANIA"
+    ],
+    "identificador": "baf7d0eb1aea99e9d0dc0eb145045605"
+  },
+  {
+    "nome": "Cao Die",
+    "sexo": "neutro",
+    "idade": 84,
+    "raca": "humano",
+    "ocupacao": "Besta espiritual em forma humana",
+    "faccao": "",
+    "posto": "Nenhum",
+    "localizacao": "YuDu",
+    "nivel": 4,
+    "caminho": "xiandao",
+    "lei": "TAIYI_FOGO",
+    "atributos": {
+      "per": 14,
+      "con": 15,
+      "cha": 12,
+      "int": 15,
+      "luk": 16,
+      "pot": 17
+    },
+    "pericias": {
+      "prestidigitacao": 2,
+      "resistencia_a_veneno": 1,
+      "percepcao_de_qi": 2,
+      "palma": 1
+    },
+    "virtudes": {
+      "ren": 6,
+      "yi": 7,
+      "li": 6,
+      "zhi": 5,
+      "xin": 3
+    },
+    "temperamento": "gen",
+    "tracos": [
+      "CORPO_DE_ACO",
+      "MEDICO_COMPASSIVO"
+    ],
+    "desejos": {
+      "imediato": "Provar a alguém que não é mais um inútil",
+      "ambicao": "Formar um Núcleo Dourado de grau 1",
+      "obsessao": "Coleciona promessas alheias e as cobra no pior momento",
+      "medo": "A própria raiva",
+      "dever": "Para com o próprio nome, que carrega o de outro",
+      "segredo": "Tem um Demônio Interior antigo adormecido",
+      "linha_vermelha": "Nunca desobedece uma ordem direta do superior",
+      "preco": "O nome de quem o humilhou"
+    },
+    "raiz": {
+      "elementos": [
+        "agua",
+        "fogo",
+        "madeira",
+        "metal",
+        "terra"
+      ],
+      "grau": "desperdicio",
+      "pureza": 17,
+      "mutacao": null
+    },
+    "face": 1,
+    "estado_mental": 36,
+    "pedras_espirituais": 150,
+    "tecnicas": [
+      "LIVRE_CORTE_QI",
+      "LIVRE_PALMA_VENTANIA",
+      "LIVRE_TRANSMISSAO_VOZ"
+    ],
+    "identificador": "a7103fefa0458e9f57a4e2cbb6968ca1"
+  }
+]

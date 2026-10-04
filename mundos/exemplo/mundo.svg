@@ -1,0 +1,300 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="904" height="1394" viewBox="0 0 904 1394" font-family="serif">
+<rect width="904" height="1394" fill="#f3ead7"/>
+<defs>
+<filter id="sombra" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="2" dy="3" stdDeviation="3" flood-opacity="0.35"/>
+</filter>
+</defs>
+<text x="452" y="34" text-anchor="middle" font-size="26" fill="#2b2118" font-weight="bold">Continente de FengShan</text>
+<text x="452" y="58" text-anchor="middle" font-size="13" fill="#6b5a45">semente <tspan font-family="monospace">xan-mundo-exemplo</tspan> · ano 1797 · gerador 1.0.0</text>
+<polygon points="758.75,542.80 758.75,660.80 656.56,719.80 554.37,660.80 554.37,542.80 656.56,483.80" fill="#7d8a52" stroke="#6b6b6b" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="744.45,551.06 744.45,652.54 656.56,703.28 568.68,652.54 568.68,551.06 656.56,500.32" fill="none" stroke="#6b6b6b" stroke-width="1.5" opacity="0.55"/>
+<text x="656.6" y="585.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">YuDu</text>
+<text x="656.6" y="605.8" text-anchor="middle" font-size="16" fill="#f0e6d0">玉都</text>
+<text x="656.6" y="623.8" text-anchor="middle" font-size="11" fill="#e8dcc4">nenhum · planicies</text>
+<text x="656.6" y="639.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 9/10 (veia_espiritual) · perigo 5/10</text>
+<circle cx="656.6" cy="533.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="656.6" y="538.4" text-anchor="middle" font-size="14" fill="#ffe9a8">✦</text>
+<title>WuJiang (reino_secreto) — nível 9, perigo 8/10, Qi 10/10. Segredo: Um imortal ascendeu daqui e deixou uma pegada que não envelhece.</title>
+<circle cx="705.0" cy="553.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="705.0" y="558.4" text-anchor="middle" font-size="14" fill="#ffe9a8">☰</text>
+<title>JiuLou (seita_nao_ortodoxa) — nível 7, perigo 10/10, Qi 8/10. Segredo: Uma criança da vila nasceu com raiz de um único elemento e ninguém sabe.</title>
+<circle cx="725.0" cy="601.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="725.0" y="606.8" text-anchor="middle" font-size="14" fill="#ffe9a8">☰</text>
+<title>BingMiao (seita_nao_ortodoxa) — nível 5, perigo 6/10, Qi 6/10. Segredo: Metade das pedras espirituais do cofre são falsas.</title>
+<circle cx="705.0" cy="650.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="705.0" y="655.2" text-anchor="middle" font-size="14" fill="#ffe9a8">⚓</text>
+<title>TianZhen (porto) — nível 3, perigo 4/10, Qi 7/10. Segredo: O poço da vila envenena devagar quem bebe por mais de um ano.</title>
+<circle cx="656.6" cy="670.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="656.6" y="675.2" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>QiYe (vila) — nível 3, perigo 3/10, Qi 8/10. Segredo: O poço da vila envenena devagar quem bebe por mais de um ano.</title>
+<circle cx="608.2" cy="650.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="608.2" y="655.2" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>WuFeng (vila) — nível 3, perigo 4/10, Qi 7/10. Segredo: Um imortal ascendeu daqui e deixou uma pegada que não envelhece.</title>
+<circle cx="588.1" cy="601.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="588.1" y="606.8" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>YinHai (vila) — nível 3, perigo 4/10, Qi 9/10. Segredo: A formação protetora tem uma porta deixada aberta de propósito.</title>
+<circle cx="608.2" cy="553.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="608.2" y="558.4" text-anchor="middle" font-size="14" fill="#e24b3a">⌂</text>
+<title>BeiHu (ruina) — nível 3, perigo 6/10, Qi 3/10. Segredo: O fundador da seita era um demônio disfarçado, e o selo está enfraquecendo.</title>
+<polygon points="349.99,542.80 349.99,660.80 247.80,719.80 145.61,660.80 145.61,542.80 247.80,483.80" fill="#7d4030" stroke="#2f5f8f" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="335.68,551.06 335.68,652.54 247.80,703.28 159.92,652.54 159.92,551.06 247.80,500.32" fill="none" stroke="#2f5f8f" stroke-width="1.5" opacity="0.55"/>
+<text x="247.8" y="585.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">YouHai</text>
+<text x="247.8" y="605.8" text-anchor="middle" font-size="16" fill="#f0e6d0">幽海</text>
+<text x="247.8" y="623.8" text-anchor="middle" font-size="11" fill="#e8dcc4">agua · vulcanico</text>
+<text x="247.8" y="639.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 9/10 (veia_espiritual) · perigo 4/10</text>
+<circle cx="247.8" cy="533.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="247.8" y="538.4" text-anchor="middle" font-size="14" fill="#ffe9a8">✦</text>
+<title>HongKu (reino_secreto) — nível 9, perigo 8/10, Qi 10/10. Segredo: As bestas da região estão fugindo de algo que ainda não chegou.</title>
+<circle cx="296.2" cy="553.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="296.2" y="558.4" text-anchor="middle" font-size="14" fill="#ffe9a8">✦</text>
+<title>XueJiang (reino_secreto) — nível 9, perigo 9/10, Qi 10/10. Segredo: Um Ancião morto ainda dá ordens: alguém falsifica a caligrafia dele.</title>
+<circle cx="316.2" cy="601.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="316.2" y="606.8" text-anchor="middle" font-size="14" fill="#ffe9a8">☰</text>
+<title>ZiDian (seita_nao_ortodoxa) — nível 7, perigo 7/10, Qi 9/10. Segredo: Um Ancião morto ainda dá ordens: alguém falsifica a caligrafia dele.</title>
+<circle cx="296.2" cy="650.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="296.2" y="655.2" text-anchor="middle" font-size="14" fill="#e24b3a">☠</text>
+<title>TieBang (culto_demoniaco) — nível 7, perigo 7/10, Qi 8/10. Segredo: Um Ancião morto ainda dá ordens: alguém falsifica a caligrafia dele.</title>
+<circle cx="247.8" cy="670.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="247.8" y="675.2" text-anchor="middle" font-size="14" fill="#e24b3a">⌂</text>
+<title>LanHu (ruina) — nível 7, perigo 6/10, Qi 4/10. Segredo: Um Ancião morto ainda dá ordens: alguém falsifica a caligrafia dele.</title>
+<circle cx="199.4" cy="650.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="199.4" y="655.2" text-anchor="middle" font-size="14" fill="#ffe9a8">☯</text>
+<title>WuTang (seita_ortodoxa) — nível 5, perigo 8/10, Qi 10/10. Segredo: Alguém daqui vende informações para uma facção inimiga.</title>
+<circle cx="179.4" cy="601.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="179.4" y="606.8" text-anchor="middle" font-size="14" fill="#e24b3a">⚔</text>
+<title>YueZhen (campo_de_batalha) — nível 4, perigo 5/10, Qi 7/10. Segredo: Há um túnel selado que leva a um reino secreto menor.</title>
+<circle cx="199.4" cy="553.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="199.4" y="558.4" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>MeiLin (vila) — nível 3, perigo 2/10, Qi 7/10. Segredo: Há um corpo preservado no subsolo que respira uma vez por mês.</title>
+<polygon points="452.18,719.80 452.18,837.80 349.99,896.80 247.80,837.80 247.80,719.80 349.99,660.80" fill="#5d8fa8" stroke="#a83a26" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="437.88,728.06 437.88,829.54 349.99,880.28 262.11,829.54 262.11,728.06 349.99,677.32" fill="none" stroke="#a83a26" stroke-width="1.5" opacity="0.55"/>
+<text x="350.0" y="762.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">ZiZhou</text>
+<text x="350.0" y="782.8" text-anchor="middle" font-size="16" fill="#f0e6d0">紫洲</text>
+<text x="350.0" y="800.8" text-anchor="middle" font-size="11" fill="#e8dcc4">fogo · litoral</text>
+<text x="350.0" y="816.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 7/10 (rica) · perigo 2/10</text>
+<circle cx="350.0" cy="710.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="350.0" y="715.4" text-anchor="middle" font-size="14" fill="#e24b3a">⌂</text>
+<title>WuShan (ruina) — nível 7, perigo 6/10, Qi 4/10. Segredo: A fonte de Qi local está morrendo e será estéril em uma década.</title>
+<circle cx="403.5" cy="736.1" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="403.5" y="741.1" text-anchor="middle" font-size="14" fill="#ffe9a8">☯</text>
+<title>HuaDian (seita_ortodoxa) — nível 6, perigo 7/10, Qi 8/10. Segredo: Metade das pedras espirituais do cofre são falsas.</title>
+<circle cx="416.7" cy="794.0" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="416.7" y="799.0" text-anchor="middle" font-size="14" fill="#ffe9a8">≋</text>
+<title>LanJing (veia_espiritual) — nível 5, perigo 3/10, Qi 9/10. Segredo: O poço da vila envenena devagar quem bebe por mais de um ano.</title>
+<circle cx="379.7" cy="840.5" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="379.7" y="845.5" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>ZiQuan (vila) — nível 3, perigo 1/10, Qi 6/10. Segredo: Uma criança da vila nasceu com raiz de um único elemento e ninguém sabe.</title>
+<circle cx="320.3" cy="840.5" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="320.3" y="845.5" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>LanLin (vila) — nível 3, perigo 1/10, Qi 3/10. Segredo: O mapa local está errado: uma montanha inteira foi omitida.</title>
+<circle cx="283.3" cy="794.0" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="283.3" y="799.0" text-anchor="middle" font-size="14" fill="#ffe9a8">⚓</text>
+<title>MoDu (porto) — nível 3, perigo 1/10, Qi 4/10. Segredo: Alguém daqui vende informações para uma facção inimiga.</title>
+<circle cx="296.5" cy="736.1" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="296.5" y="741.1" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>HuangShan (vila) — nível 2, perigo 1/10, Qi 5/10. Segredo: Há um corpo preservado no subsolo que respira uma vez por mês.</title>
+<polygon points="554.37,896.80 554.37,1014.80 452.18,1073.80 349.99,1014.80 349.99,896.80 452.18,837.80" fill="#7d8a52" stroke="#2f5f8f" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="540.07,905.06 540.07,1006.54 452.18,1057.28 364.30,1006.54 364.30,905.06 452.18,854.32" fill="none" stroke="#2f5f8f" stroke-width="1.5" opacity="0.55"/>
+<text x="452.2" y="939.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">BingZhou</text>
+<text x="452.2" y="959.8" text-anchor="middle" font-size="16" fill="#f0e6d0">冰洲</text>
+<text x="452.2" y="977.8" text-anchor="middle" font-size="11" fill="#e8dcc4">agua · planicies</text>
+<text x="452.2" y="993.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 5/10 (comum) · perigo 6/10</text>
+<circle cx="452.2" cy="887.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="452.2" y="892.4" text-anchor="middle" font-size="14" fill="#ffe9a8">✦</text>
+<title>JinTan (reino_secreto) — nível 9, perigo 10/10, Qi 10/10. Segredo: Um tributo anual é pago em segredo para evitar um ataque.</title>
+<circle cx="500.6" cy="907.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="500.6" y="912.4" text-anchor="middle" font-size="14" fill="#ffe9a8">☰</text>
+<title>ZhuGuan (seita_nao_ortodoxa) — nível 5, perigo 9/10, Qi 5/10. Segredo: Alguém daqui vende informações para uma facção inimiga.</title>
+<circle cx="520.6" cy="955.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="520.6" y="960.8" text-anchor="middle" font-size="14" fill="#e24b3a">⚔</text>
+<title>HeiYa (campo_de_batalha) — nível 4, perigo 7/10, Qi 3/10. Segredo: Um imortal ascendeu daqui e deixou uma pegada que não envelhece.</title>
+<circle cx="500.6" cy="1004.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="500.6" y="1009.2" text-anchor="middle" font-size="14" fill="#e24b3a">⚔</text>
+<title>ShuiKu (campo_de_batalha) — nível 4, perigo 8/10, Qi 0/10. Segredo: Há um corpo preservado no subsolo que respira uma vez por mês.</title>
+<circle cx="452.2" cy="1024.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="452.2" y="1029.2" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>SuJiang (vila) — nível 3, perigo 5/10, Qi 4/10. Segredo: O poço da vila envenena devagar quem bebe por mais de um ano.</title>
+<circle cx="403.8" cy="1004.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="403.8" y="1009.2" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>XueCheng (vila) — nível 3, perigo 4/10, Qi 3/10. Segredo: O manual guardado no pavilhão é uma cópia; o original sumiu há 40 anos.</title>
+<circle cx="383.7" cy="955.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="383.7" y="960.8" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>LingZhen (vila) — nível 3, perigo 6/10, Qi 3/10. Segredo: O poço da vila envenena devagar quem bebe por mais de um ano.</title>
+<circle cx="403.8" cy="907.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="403.8" y="912.4" text-anchor="middle" font-size="14" fill="#ffe9a8">⌃</text>
+<title>BeiYuan (passo_de_montanha) — nível 3, perigo 6/10, Qi 6/10. Segredo: Um imortal ascendeu daqui e deixou uma pegada que não envelhece.</title>
+<polygon points="452.18,365.80 452.18,483.80 349.99,542.80 247.80,483.80 247.80,365.80 349.99,306.80" fill="#98a06a" stroke="#6b6b6b" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="437.88,374.06 437.88,475.54 349.99,526.28 262.11,475.54 262.11,374.06 349.99,323.32" fill="none" stroke="#6b6b6b" stroke-width="1.5" opacity="0.55"/>
+<text x="350.0" y="408.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">QianShan</text>
+<text x="350.0" y="428.8" text-anchor="middle" font-size="16" fill="#f0e6d0">千山</text>
+<text x="350.0" y="446.8" text-anchor="middle" font-size="11" fill="#e8dcc4">nenhum · estepe</text>
+<text x="350.0" y="462.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 5/10 (comum) · perigo 6/10</text>
+<circle cx="350.0" cy="356.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="350.0" y="361.4" text-anchor="middle" font-size="14" fill="#ffe9a8">✦</text>
+<title>YouYa (reino_secreto) — nível 8, perigo 10/10, Qi 10/10. Segredo: Um imortal ascendeu daqui e deixou uma pegada que não envelhece.</title>
+<circle cx="398.4" cy="376.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="398.4" y="381.4" text-anchor="middle" font-size="14" fill="#e24b3a">†</text>
+<title>JianTan (tumba_antiga) — nível 7, perigo 10/10, Qi 7/10. Segredo: A fonte de Qi local está morrendo e será estéril em uma década.</title>
+<circle cx="418.4" cy="424.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="418.4" y="429.8" text-anchor="middle" font-size="14" fill="#e24b3a">⌂</text>
+<title>TianDu (ruina) — nível 6, perigo 10/10, Qi 1/10. Segredo: Uma criança da vila nasceu com raiz de um único elemento e ninguém sabe.</title>
+<circle cx="398.4" cy="473.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="398.4" y="478.2" text-anchor="middle" font-size="14" fill="#ffe9a8">☰</text>
+<title>YinMeng (seita_nao_ortodoxa) — nível 5, perigo 7/10, Qi 7/10. Segredo: A formação protetora tem uma porta deixada aberta de propósito.</title>
+<circle cx="350.0" cy="493.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="350.0" y="498.2" text-anchor="middle" font-size="14" fill="#ffe9a8">☯</text>
+<title>LingMeng (seita_ortodoxa) — nível 5, perigo 7/10, Qi 5/10. Segredo: Um tributo anual é pago em segredo para evitar um ataque.</title>
+<circle cx="301.6" cy="473.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="301.6" y="478.2" text-anchor="middle" font-size="14" fill="#e24b3a">⚔</text>
+<title>SuHu (campo_de_batalha) — nível 4, perigo 10/10, Qi 2/10. Segredo: A fonte de Qi local está morrendo e será estéril em uma década.</title>
+<circle cx="281.6" cy="424.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="281.6" y="429.8" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>ShuiTan (vila) — nível 3, perigo 4/10, Qi 5/10. Segredo: O manual guardado no pavilhão é uma cópia; o original sumiu há 40 anos.</title>
+<circle cx="301.6" cy="376.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="301.6" y="381.4" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>XueZhen (vila) — nível 3, perigo 5/10, Qi 7/10. Segredo: Alguém daqui vende informações para uma facção inimiga.</title>
+<polygon points="554.37,542.80 554.37,660.80 452.18,719.80 349.99,660.80 349.99,542.80 452.18,483.80" fill="#98a06a" stroke="#8f9aa6" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="540.07,551.06 540.07,652.54 452.18,703.28 364.30,652.54 364.30,551.06 452.18,500.32" fill="none" stroke="#8f9aa6" stroke-width="1.5" opacity="0.55"/>
+<text x="452.2" y="585.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">JinDong</text>
+<text x="452.2" y="605.8" text-anchor="middle" font-size="16" fill="#f0e6d0">金洞</text>
+<text x="452.2" y="623.8" text-anchor="middle" font-size="11" fill="#e8dcc4">metal · estepe</text>
+<text x="452.2" y="639.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 3/10 (pobre) · perigo 5/10</text>
+<circle cx="452.2" cy="533.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="452.2" y="538.4" text-anchor="middle" font-size="14" fill="#ffe9a8">☸</text>
+<title>LanPai (mosteiro) — nível 5, perigo 6/10, Qi 4/10. Segredo: Nada. O lugar é exatamente o que parece — e isso é o mais raro de tudo.</title>
+<circle cx="517.3" cy="580.7" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="517.3" y="585.7" text-anchor="middle" font-size="14" fill="#ffe9a8">≋</text>
+<title>LingShan (veia_espiritual) — nível 3, perigo 8/10, Qi 8/10. Segredo: Dois anciões são a mesma pessoa usando dois nomes.</title>
+<circle cx="492.4" cy="657.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="492.4" y="662.2" text-anchor="middle" font-size="14" fill="#ffe9a8">卍</text>
+<title>QianMen (templo) — nível 3, perigo 7/10, Qi 5/10. Segredo: Um Ancião morto ainda dá ordens: alguém falsifica a caligrafia dele.</title>
+<circle cx="412.0" cy="657.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="412.0" y="662.2" text-anchor="middle" font-size="14" fill="#ffe9a8">▲</text>
+<title>LianQuan (pico_de_cultivo) — nível 2, perigo 5/10, Qi 6/10. Segredo: Há um corpo preservado no subsolo que respira uma vez por mês.</title>
+<circle cx="387.1" cy="580.7" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="387.1" y="585.7" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>WuGu (vila) — nível 1, perigo 4/10, Qi 5/10. Segredo: Metade das pedras espirituais do cofre são falsas.</title>
+<polygon points="656.56,719.80 656.56,837.80 554.37,896.80 452.18,837.80 452.18,719.80 554.37,660.80" fill="#c2a86b" stroke="#6b6b6b" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="642.26,728.06 642.26,829.54 554.37,880.28 466.49,829.54 466.49,728.06 554.37,677.32" fill="none" stroke="#6b6b6b" stroke-width="1.5" opacity="0.55"/>
+<text x="554.4" y="762.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">HuLin</text>
+<text x="554.4" y="782.8" text-anchor="middle" font-size="16" fill="#f0e6d0">虎林</text>
+<text x="554.4" y="800.8" text-anchor="middle" font-size="11" fill="#e8dcc4">nenhum · deserto</text>
+<text x="554.4" y="816.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 2/10 (pobre) · perigo 5/10</text>
+<circle cx="554.4" cy="710.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="554.4" y="715.4" text-anchor="middle" font-size="14" fill="#e24b3a">⫯</text>
+<title>ZhuYe (floresta_proibida) — nível 11, perigo 10/10, Qi 1/10. Segredo: Um imortal ascendeu daqui e deixou uma pegada que não envelhece.</title>
+<circle cx="602.8" cy="730.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="602.8" y="735.4" text-anchor="middle" font-size="14" fill="#ffe9a8">▲</text>
+<title>HuoDao (pico_de_cultivo) — nível 10, perigo 9/10, Qi 3/10. Segredo: As bestas da região estão fugindo de algo que ainda não chegou.</title>
+<circle cx="622.8" cy="778.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="622.8" y="783.8" text-anchor="middle" font-size="14" fill="#e24b3a">⫯</text>
+<title>HuangHai (floresta_proibida) — nível 9, perigo 9/10, Qi 2/10. Segredo: Todo mundo aqui deve dinheiro à mesma pessoa.</title>
+<circle cx="602.8" cy="827.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="602.8" y="832.2" text-anchor="middle" font-size="14" fill="#e24b3a">⌂</text>
+<title>XueZhou (ruina) — nível 7, perigo 7/10, Qi 0/10. Segredo: Uma criança da vila nasceu com raiz de um único elemento e ninguém sabe.</title>
+<circle cx="554.4" cy="847.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="554.4" y="852.2" text-anchor="middle" font-size="14" fill="#ffe9a8">⌖</text>
+<title>LongYe (torre_de_observacao) — nível 4, perigo 6/10, Qi 1/10. Segredo: A formação protetora tem uma porta deixada aberta de propósito.</title>
+<circle cx="506.0" cy="827.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="506.0" y="832.2" text-anchor="middle" font-size="14" fill="#e24b3a">⚔</text>
+<title>BingTan (campo_de_batalha) — nível 4, perigo 7/10, Qi 0/10. Segredo: Nada. O lugar é exatamente o que parece — e isso é o mais raro de tudo.</title>
+<circle cx="485.9" cy="778.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="485.9" y="783.8" text-anchor="middle" font-size="14" fill="#e24b3a">⚔</text>
+<title>ZiDong (campo_de_batalha) — nível 4, perigo 8/10, Qi 0/10. Segredo: O poço da vila envenena devagar quem bebe por mais de um ano.</title>
+<circle cx="506.0" cy="730.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="506.0" y="735.4" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>FengShan (vila) — nível 2, perigo 4/10, Qi 4/10. Segredo: Uma criança da vila nasceu com raiz de um único elemento e ninguém sabe.</title>
+<polygon points="758.75,896.80 758.75,1014.80 656.56,1073.80 554.37,1014.80 554.37,896.80 656.56,837.80" fill="#5d8fa8" stroke="#2f5f8f" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="744.45,905.06 744.45,1006.54 656.56,1057.28 568.68,1006.54 568.68,905.06 656.56,854.32" fill="none" stroke="#2f5f8f" stroke-width="1.5" opacity="0.55"/>
+<text x="656.6" y="939.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">SuGu</text>
+<text x="656.6" y="959.8" text-anchor="middle" font-size="16" fill="#f0e6d0">素谷</text>
+<text x="656.6" y="977.8" text-anchor="middle" font-size="11" fill="#e8dcc4">agua · litoral</text>
+<text x="656.6" y="993.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 7/10 (rica) · perigo 6/10</text>
+<circle cx="656.6" cy="887.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="656.6" y="892.4" text-anchor="middle" font-size="14" fill="#ffe9a8">◈</text>
+<title>ZhuBang (mercado_negro) — nível 6, perigo 8/10, Qi 6/10. Segredo: O manual guardado no pavilhão é uma cópia; o original sumiu há 40 anos.</title>
+<circle cx="715.8" cy="921.6" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="715.8" y="926.6" text-anchor="middle" font-size="14" fill="#ffe9a8">☯</text>
+<title>YouMiao (seita_ortodoxa) — nível 5, perigo 10/10, Qi 3/10. Segredo: Dois anciões são a mesma pessoa usando dois nomes.</title>
+<circle cx="715.8" cy="990.0" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="715.8" y="995.0" text-anchor="middle" font-size="14" fill="#ffe9a8">▣</text>
+<title>QingJiang (cidade) — nível 3, perigo 4/10, Qi 6/10. Segredo: A fonte de Qi local está morrendo e será estéril em uma década.</title>
+<circle cx="656.6" cy="1024.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="656.6" y="1029.2" text-anchor="middle" font-size="14" fill="#ffe9a8">▪</text>
+<title>TaiQuan (vila) — nível 3, perigo 5/10, Qi 4/10. Segredo: A formação protetora tem uma porta deixada aberta de propósito.</title>
+<circle cx="597.3" cy="990.0" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="597.3" y="995.0" text-anchor="middle" font-size="14" fill="#ffe9a8">⌃</text>
+<title>WuCheng (passo_de_montanha) — nível 3, perigo 8/10, Qi 3/10. Segredo: Dois anciões são a mesma pessoa usando dois nomes.</title>
+<circle cx="597.3" cy="921.6" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="597.3" y="926.6" text-anchor="middle" font-size="14" fill="#ffe9a8">⌖</text>
+<title>LeiGu (torre_de_observacao) — nível 3, perigo 7/10, Qi 7/10. Segredo: O manual guardado no pavilhão é uma cópia; o original sumiu há 40 anos.</title>
+<polygon points="554.37,188.80 554.37,306.80 452.18,365.80 349.99,306.80 349.99,188.80 452.18,129.80" fill="#7d8a52" stroke="#2f5f8f" stroke-width="7" filter="url(#sombra)" opacity="0.96"/>
+<polygon points="540.07,197.06 540.07,298.54 452.18,349.28 364.30,298.54 364.30,197.06 452.18,146.32" fill="none" stroke="#2f5f8f" stroke-width="1.5" opacity="0.55"/>
+<text x="452.2" y="231.8" text-anchor="middle" font-size="19" fill="#fdf7e8" font-weight="bold">ShuiTan</text>
+<text x="452.2" y="251.8" text-anchor="middle" font-size="16" fill="#f0e6d0">水潭</text>
+<text x="452.2" y="269.8" text-anchor="middle" font-size="11" fill="#e8dcc4">agua · planicies</text>
+<text x="452.2" y="285.8" text-anchor="middle" font-size="11" fill="#e8dcc4">Qi 8/10 (veia_espiritual) · perigo 6/10</text>
+<circle cx="452.2" cy="179.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="452.2" y="184.4" text-anchor="middle" font-size="14" fill="#e24b3a">⫯</text>
+<title>QianGu (floresta_proibida) — nível 12, perigo 10/10, Qi 8/10. Segredo: As bestas da região estão fugindo de algo que ainda não chegou.</title>
+<circle cx="500.6" cy="199.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="500.6" y="204.4" text-anchor="middle" font-size="14" fill="#ffe9a8">✦</text>
+<title>WuYuan (reino_secreto) — nível 9, perigo 10/10, Qi 10/10. Segredo: A formação protetora tem uma porta deixada aberta de propósito.</title>
+<circle cx="520.6" cy="247.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="520.6" y="252.8" text-anchor="middle" font-size="14" fill="#ffe9a8">✦</text>
+<title>JiuYuan (reino_secreto) — nível 9, perigo 10/10, Qi 10/10. Segredo: O poço da vila envenena devagar quem bebe por mais de um ano.</title>
+<circle cx="500.6" cy="296.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="500.6" y="301.2" text-anchor="middle" font-size="14" fill="#ffe9a8">✦</text>
+<title>HongYa (reino_secreto) — nível 7, perigo 9/10, Qi 10/10. Segredo: Há um corpo preservado no subsolo que respira uma vez por mês.</title>
+<circle cx="452.2" cy="316.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="452.2" y="321.2" text-anchor="middle" font-size="14" fill="#ffe9a8">☯</text>
+<title>JianBang (seita_ortodoxa) — nível 7, perigo 10/10, Qi 7/10. Segredo: As bestas da região estão fugindo de algo que ainda não chegou.</title>
+<circle cx="403.8" cy="296.2" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="403.8" y="301.2" text-anchor="middle" font-size="14" fill="#ffe9a8">☯</text>
+<title>TaiTa (seita_ortodoxa) — nível 5, perigo 10/10, Qi 7/10. Segredo: Nada. O lugar é exatamente o que parece — e isso é o mais raro de tudo.</title>
+<circle cx="383.7" cy="247.8" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="383.7" y="252.8" text-anchor="middle" font-size="14" fill="#ffe9a8">☰</text>
+<title>ShuiTa (seita_nao_ortodoxa) — nível 5, perigo 7/10, Qi 4/10. Segredo: O manual guardado no pavilhão é uma cópia; o original sumiu há 40 anos.</title>
+<circle cx="403.8" cy="199.4" r="11" fill="#1d1a15" opacity="0.55"/>
+<text x="403.8" y="204.4" text-anchor="middle" font-size="14" fill="#ffe9a8">▣</text>
+<title>ZhuYuan (cidade) — nível 4, perigo 4/10, Qi 8/10. Segredo: Uma criança da vila nasceu com raiz de um único elemento e ninguém sabe.</title>
+<rect x="24" y="1220" width="856" height="140" fill="#e7dcc2" stroke="#a89878" rx="6"/>
+<text x="40" y="1244" font-size="15" fill="#2b2118" font-weight="bold">Legenda</text>
+<text x="40" y="1266" font-size="11" fill="#3a2f22">⚔ campo de batalha</text>
+<text x="141" y="1266" font-size="11" fill="#3a2f22">⩕ caverna de bestas</text>
+<text x="241" y="1266" font-size="11" fill="#3a2f22">▣ cidade</text>
+<text x="342" y="1266" font-size="11" fill="#3a2f22">⚑ cla nobre</text>
+<text x="442" y="1266" font-size="11" fill="#3a2f22">☠ culto demoniaco</text>
+<text x="543" y="1266" font-size="11" fill="#3a2f22">⫯ floresta proibida</text>
+<text x="643" y="1266" font-size="11" fill="#3a2f22">♜ fortaleza</text>
+<text x="744" y="1266" font-size="11" fill="#3a2f22">◉ lago espiritual</text>
+<text x="40" y="1283" font-size="11" fill="#3a2f22">◈ mercado negro</text>
+<text x="141" y="1283" font-size="11" fill="#3a2f22">☸ mosteiro</text>
+<text x="241" y="1283" font-size="11" fill="#3a2f22">⌃ passo de montanha</text>
+<text x="342" y="1283" font-size="11" fill="#3a2f22">▲ pico de cultivo</text>
+<text x="442" y="1283" font-size="11" fill="#3a2f22">⚓ porto</text>
+<text x="543" y="1283" font-size="11" fill="#3a2f22">✦ reino secreto</text>
+<text x="643" y="1283" font-size="11" fill="#3a2f22">⌂ ruina</text>
+<text x="744" y="1283" font-size="11" fill="#3a2f22">☰ seita nao ortodoxa</text>
+<text x="40" y="1300" font-size="11" fill="#3a2f22">☯ seita ortodoxa</text>
+<text x="141" y="1300" font-size="11" fill="#3a2f22">卍 templo</text>
+<text x="241" y="1300" font-size="11" fill="#3a2f22">⌖ torre de observacao</text>
+<text x="342" y="1300" font-size="11" fill="#3a2f22">† tumba antiga</text>
+<text x="442" y="1300" font-size="11" fill="#3a2f22">≋ veia espiritual</text>
+<text x="543" y="1300" font-size="11" fill="#3a2f22">▪ vila</text>
+<rect x="40" y="1316" width="12" height="12" fill="#3f7d43"/>
+<text x="57" y="1326" font-size="11" fill="#3a2f22">madeira</text>
+<rect x="138" y="1316" width="12" height="12" fill="#a83a26"/>
+<text x="155" y="1326" font-size="11" fill="#3a2f22">fogo</text>
+<rect x="209" y="1316" width="12" height="12" fill="#a8842f"/>
+<text x="226" y="1326" font-size="11" fill="#3a2f22">terra</text>
+<rect x="289" y="1316" width="12" height="12" fill="#8f9aa6"/>
+<text x="306" y="1326" font-size="11" fill="#3a2f22">metal</text>
+<rect x="369" y="1316" width="12" height="12" fill="#2f5f8f"/>
+<text x="386" y="1326" font-size="11" fill="#3a2f22">agua</text>
+<rect x="440" y="1316" width="12" height="12" fill="#6b6b6b"/>
+<text x="457" y="1326" font-size="11" fill="#3a2f22">nenhum</text>
+<rect x="529" y="1316" width="12" height="12" fill="#4a3b6b"/>
+<text x="546" y="1326" font-size="11" fill="#3a2f22">vazio</text>
+</svg>

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Artefatos de sessao (regeneraveis pela semente)
+mundos/**/auditoria/*.jsonl
+mundos/**/selos/*.txt
+!mundos/exemplo/**
+
+# SO / editores
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Backups locais grandes (o bundle versionado fica em backups/)
+backups/*.tmp
+backups/tmp/
