@@ -7,10 +7,21 @@ venv/
 .pytest_cache/
 .mypy_cache/
 
-# Artefatos de sessao (regeneraveis pela semente)
-mundos/**/auditoria/*.jsonl
-mundos/**/selos/*.txt
-!mundos/exemplo/**
+# ---------------------------------------------------------------------------
+# DIÁRIOS DE AUDITORIA E SELOS SÃO VERSIONADOS. DE PROPÓSITO.
+#
+# A primeira versão deste arquivo os excluía ("artefatos regeneráveis pela
+# semente"). Estava errado, e o erro foi observado em mesa real: o snapshot do
+# ambiente não persiste arquivo ignorado, então o diário da sessão evaporou
+# entre um turno e outro e a cadeia recomeçou do gênesis sem que ninguém a
+# tivesse adulterado.
+#
+# Um sistema cuja única promessa é "o histórico não pode ser reescrito" não
+# pode guardar o histórico num lugar que desaparece. Se o diário crescer demais
+# para o repositório, a resposta é arquivá-lo em backups/ e registrar o selo —
+# nunca ignorá-lo.
+# ---------------------------------------------------------------------------
+# (nada de mundos/ é ignorado)
 
 # SO / editores
 .DS_Store

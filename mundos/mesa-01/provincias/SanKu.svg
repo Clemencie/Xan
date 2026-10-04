@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="631" height="513" viewBox="0 0 631 513" font-family="serif">
+<rect width="631" height="513" fill="#3f6b3f"/>
+<text x="315" y="36" text-anchor="middle" font-size="24" fill="#fdf7e8" font-weight="bold">SanKu 三窟</text>
+<text x="315" y="60" text-anchor="middle" font-size="13" fill="#e8dcc4">Continente de BaiKu · elemento nenhum · Qi 7/10 · perigo 7/10 · 6 sítios</text>
+<polygon points="235.30,159.68 235.30,244.32 162.00,286.64 88.70,244.32 88.70,159.68 162.00,117.36" fill="#2a241c" opacity="0.72" stroke="#6b6b6b" stroke-width="3"/>
+<text x="162.0" y="196.0" text-anchor="middle" font-size="24" fill="#e24b3a">⫯</text>
+<text x="162.0" y="218.0" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">BaiCheng</text>
+<text x="162.0" y="233.0" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 11 · perigo 10 · Qi 7</text>
+<text x="162.0" y="246.0" text-anchor="middle" font-size="10" fill="#c0b49a">floresta proibida</text>
+<title>BaiCheng — Há um túnel selado que leva a um reino secreto menor.</title>
+<polygon points="405.50,159.68 405.50,244.32 332.20,286.64 258.90,244.32 258.90,159.68 332.20,117.36" fill="#2a241c" opacity="0.72" stroke="#6b6b6b" stroke-width="3"/>
+<text x="332.2" y="196.0" text-anchor="middle" font-size="24" fill="#ffe9a8">☰</text>
+<text x="332.2" y="218.0" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">YuSi</text>
+<text x="332.2" y="233.0" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 5 · perigo 10 · Qi 7</text>
+<text x="332.2" y="246.0" text-anchor="middle" font-size="10" fill="#c0b49a">seita nao ortodoxa</text>
+<text x="332.2" y="259.0" text-anchor="middle" font-size="9" fill="#a89878">Seita do GuJiao</text>
+<title>YuSi — Dois anciões são a mesma pessoa usando dois nomes.</title>
+<polygon points="575.70,159.68 575.70,244.32 502.40,286.64 429.10,244.32 429.10,159.68 502.40,117.36" fill="#2a241c" opacity="0.72" stroke="#6b6b6b" stroke-width="3"/>
+<text x="502.4" y="196.0" text-anchor="middle" font-size="24" fill="#ffe9a8">▲</text>
+<text x="502.4" y="218.0" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">JiuZhen</text>
+<text x="502.4" y="233.0" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 4 · perigo 10 · Qi 8</text>
+<text x="502.4" y="246.0" text-anchor="middle" font-size="10" fill="#c0b49a">pico de cultivo</text>
+<title>JiuZhen — Há um corpo preservado no subsolo que respira uma vez por mês.</title>
+<polygon points="235.30,316.08 235.30,400.72 162.00,443.04 88.70,400.72 88.70,316.08 162.00,273.76" fill="#2a241c" opacity="0.72" stroke="#6b6b6b" stroke-width="3"/>
+<text x="162.0" y="352.4" text-anchor="middle" font-size="24" fill="#e24b3a">⚔</text>
+<text x="162.0" y="374.4" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">YueJing</text>
+<text x="162.0" y="389.4" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 4 · perigo 10 · Qi 2</text>
+<text x="162.0" y="402.4" text-anchor="middle" font-size="10" fill="#c0b49a">campo de batalha</text>
+<title>YueJing — Há um túnel selado que leva a um reino secreto menor.</title>
+<polygon points="405.50,316.08 405.50,400.72 332.20,443.04 258.90,400.72 258.90,316.08 332.20,273.76" fill="#2a241c" opacity="0.72" stroke="#6b6b6b" stroke-width="3"/>
+<text x="332.2" y="352.4" text-anchor="middle" font-size="24" fill="#ffe9a8">▪</text>
+<text x="332.2" y="374.4" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">BeiZhen</text>
+<text x="332.2" y="389.4" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 3 · perigo 4 · Qi 5</text>
+<text x="332.2" y="402.4" text-anchor="middle" font-size="10" fill="#c0b49a">vila</text>
+<title>BeiZhen — A fonte de Qi local está morrendo e será estéril em uma década.</title>
+<polygon points="575.70,316.08 575.70,400.72 502.40,443.04 429.10,400.72 429.10,316.08 502.40,273.76" fill="#2a241c" opacity="0.72" stroke="#6b6b6b" stroke-width="3"/>
+<text x="502.4" y="352.4" text-anchor="middle" font-size="24" fill="#ffe9a8">▪</text>
+<text x="502.4" y="374.4" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">LianCheng</text>
+<text x="502.4" y="389.4" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 3 · perigo 7 · Qi 3</text>
+<text x="502.4" y="402.4" text-anchor="middle" font-size="10" fill="#c0b49a">vila</text>
+<title>LianCheng — Há um túnel selado que leva a um reino secreto menor.</title>
+</svg>

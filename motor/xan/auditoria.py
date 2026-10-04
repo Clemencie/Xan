@@ -27,12 +27,14 @@ from __future__ import annotations
 
 import hashlib
 import json
+import math
 import os
 import time
 from dataclasses import dataclass, field
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 __all__ = [
+    "canonico", "hash_de",
     "canonico",
     "hash_de",
     "Registro",
@@ -45,13 +47,77 @@ HASH_GENESIS = "0" * 64
 _ALGORITMO = "sha256"
 
 
+def _chave_canonica(chave: Any) -> str:
+    """Converte uma chave de dicionário na string que o JSON produziria.
+
+    Espelha exatamente o que ``json.dumps`` faz com chaves não-string:
+    ``True``→"true", ``False``→"false", ``None``→"null", ``int``→repr,
+    ``float``→repr. Qualquer outro tipo é recusado.
+    """
+    if isinstance(chave, str):
+        return chave
+    if isinstance(chave, bool):
+        return "true" if chave else "false"
+    if isinstance(chave, int):
+        return repr(chave)
+    if isinstance(chave, float):
+        if not math.isfinite(chave):
+            raise ValueError(
+                f"chave de dicionário não-finita ({chave!r}) não tem forma "
+                "canônica portátil")
+        return repr(chave)
+    if chave is None:
+        return "null"
+    raise TypeError(
+        f"chave de dicionário do tipo {type(chave).__name__} não é "
+        "serializável de forma canônica; use str, int, float, bool ou None")
+
+
+def _normalizar(objeto: Any) -> Any:
+    """Reescreve o objeto para que a serialização seja estável sob round-trip.
+
+    O problema que isto resolve é sutil e foi encontrado em uso real:
+    ``json.dumps({1: "a", 10: "j"}, sort_keys=True)`` ordena as chaves
+    **numericamente** (1, 10), mas depois do round-trip as chaves viram strings e
+    ``sort_keys`` ordena **lexicograficamente** (1, 10 → "1", "10" continua, mas
+    {1,2,10,20} vira "1","10","2","20"). O hash calculado na escrita não bate
+    com o recalculado na leitura — um falso positivo de adulteração, que é pior
+    que adulteração de verdade porque destrói a confiança na cadeia.
+
+    Normalizar as chaves para ``str`` ANTES de serializar torna as duas formas
+    idênticas. Colisões (por exemplo ``{1: "a", "1": "b"}``) são recusadas em
+    vez de silently sobrescritas.
+    """
+    if isinstance(objeto, dict):
+        saida: Dict[str, Any] = {}
+        for chave, valor in objeto.items():
+            k = _chave_canonica(chave)
+            if k in saida:
+                raise ValueError(
+                    f"chaves {chave!r} e outra anterior colidem na forma "
+                    f"canônica {k!r}; o registro seria ambíguo")
+            saida[k] = _normalizar(valor)
+        return saida
+    if isinstance(objeto, (list, tuple)):
+        return [_normalizar(v) for v in objeto]
+    if isinstance(objeto, float) and not math.isfinite(objeto):
+        raise ValueError(f"valor não-finito {objeto!r} não é JSON portátil")
+    return objeto
+
+
 def canonico(objeto: Any) -> str:
     """Serialização JSON determinística (chaves ordenadas, sem espaços).
 
     É a ÚNICA função de serialização usada para hashing em todo o projeto:
     assim o hash não depende de versão de biblioteca nem de ordem de dicionário.
+
+    **Invariantes** (cobertas por teste):
+      * ``canonico(x) == canonico(json.loads(canonico(x)))`` para todo x aceito;
+      * a ordem das chaves no dict de origem não importa;
+      * chave não-serializável ou colisão de chaves levanta erro, nunca passa.
     """
-    return json.dumps(objeto, sort_keys=True, separators=(",", ":"), ensure_ascii=False)
+    return json.dumps(_normalizar(objeto), sort_keys=True,
+                      separators=(",", ":"), ensure_ascii=False)
 
 
 def hash_de(texto: str) -> str:

@@ -1,0 +1,1 @@
+{"cabeca":"667ba3054276508411ad3ea834a77f1ca8da7a0371c2c702b0f15dfa7d353837","nota":"primeiro selo persistível; daqui em diante a cadeia é contínua","raiz_merkle":"bff384bb5a858fe6faefd0333165df6a8d893139b2a3cc5ff96d4f46b55d474c","registros":16,"t":1791082739805013946}

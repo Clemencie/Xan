@@ -371,12 +371,16 @@ class Mundo:
     clima_do_ano: Dict[str, List[str]] = field(default_factory=dict)
 
     # ---------------- consultas ----------------
-    def faccao(self, nome: str) -> Faccao:
+    def buscar_facao(self, nome: str) -> Faccao:
         """Busca pelo nome. (``faccao`` = facção em ASCII.)"""
         for f in self.faccoes:
             if f.nome == nome:
                 return f
         raise KeyError(f"facção {nome!r} não existe neste mundo")
+
+    def faccao(self, nome: str) -> Faccao:
+        """Alias de ``buscar_facao``."""
+        return self.buscar_facao(nome)
 
     def provincia(self, nome: str) -> Provincia:
         for p in self.provincias:

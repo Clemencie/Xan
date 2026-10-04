@@ -407,6 +407,60 @@ class TesteAuditoria(unittest.TestCase):
         self.assertEqual(rel.primeira_falha, 3)
         self.assertIn("adulterado", rel.motivo)
 
+    def test_canonico_estavel_sob_roundtrip(self):
+        """REGRESSÃO de bug real: chaves inteiras quebravam a verificação.
+
+        ``json.dumps({1:..,10:..}, sort_keys=True)`` ordena numericamente na
+        escrita e lexicograficamente depois do round-trip, então o hash gravado
+        não batia com o recalculado — um falso positivo de adulteração que
+        condenava um diário legítimo. Encontrado numa mesa de verdade ao gravar
+        uma tabela de 20 entradas com chaves 1..20.
+        """
+        import json as _json
+        casos = [
+            {1: "a", 2: "b", 10: "j", 20: "t"},
+            {20: "t", 10: "j", 2: "b", 1: "a"},
+            {i: f"entrada {i}" for i in range(1, 21)},
+            {"x": {1: "a", 10: "j"}, "y": [1, {2: "b"}]},
+            {True: "v", False: "f", None: "n", 1.5: "f"},
+            {"a": 1, "b": [1, 2, {"c": (3, 4)}]},
+            [], {}, "", 0, -1, 3.5, None, True,
+            [{"k": {7: [1, {8: "v"}]}}],
+        ]
+        for c in casos:
+            escrita = canonico(c)
+            releitura = canonico(_json.loads(escrita))
+            self.assertEqual(escrita, releitura,
+                             f"canonico instável sob round-trip para {c!r}")
+
+    def test_canonico_ignora_a_ordem_de_insercao(self):
+        self.assertEqual(canonico({1: "a", 2: "b", 3: "c"}),
+                         canonico({3: "c", 1: "a", 2: "b"}))
+        self.assertEqual(canonico({"z": 1, "a": 2}), canonico({"a": 2, "z": 1}))
+
+    def test_canonico_recusa_ambiguidade(self):
+        with self.assertRaises(ValueError):
+            canonico({1: "a", "1": "b"})           # colisão na forma canônica
+        with self.assertRaises(ValueError):
+            canonico({float("nan"): 1})            # não-finito
+        with self.assertRaises(ValueError):
+            canonico({float("inf"): 1})
+        with self.assertRaises(ValueError):
+            canonico({"x": float("nan")})
+        with self.assertRaises(TypeError):
+            canonico({(1, 2): "x"})                # chave não serializável
+
+    def test_registro_com_chaves_inteiras_verifica_depois_de_reaberto(self):
+        """O caso que falhou na mesa: gravar, fechar, reabrir, verificar."""
+        tabela = {i: f"evento {i}" for i in range(1, 21)}
+        diario = DiarioDeAuditoria(self.caminho)
+        diario.registrar("tabela_declarada",
+                         {"entradas": tabela, "dado": "1d20"}, ator="mestre")
+        diario.registrar("rolagem", {"resultado": 5, "tabela": tabela},
+                         ator="mundo")
+        rel = DiarioDeAuditoria(self.caminho, criar=False).verificar()
+        self.assertTrue(rel.ok, rel.motivo)
+
     def test_remocao_de_registro_e_detectada(self):
         d = DiarioDeAuditoria(self.caminho)
         for i in range(8):

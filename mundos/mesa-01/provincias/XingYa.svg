@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="631" height="513" viewBox="0 0 631 513" font-family="serif">
+<rect width="631" height="513" fill="#3f6b3f"/>
+<text x="315" y="36" text-anchor="middle" font-size="24" fill="#fdf7e8" font-weight="bold">XingYa 星崖</text>
+<text x="315" y="60" text-anchor="middle" font-size="13" fill="#e8dcc4">Continente de BaiKu · elemento metal · Qi 7/10 · perigo 6/10 · 4 sítios</text>
+<polygon points="235.30,159.68 235.30,244.32 162.00,286.64 88.70,244.32 88.70,159.68 162.00,117.36" fill="#2a241c" opacity="0.72" stroke="#8f9aa6" stroke-width="3"/>
+<text x="162.0" y="196.0" text-anchor="middle" font-size="24" fill="#ffe9a8">▲</text>
+<text x="162.0" y="218.0" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">LianQuan</text>
+<text x="162.0" y="233.0" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 5 · perigo 10 · Qi 6</text>
+<text x="162.0" y="246.0" text-anchor="middle" font-size="10" fill="#c0b49a">pico de cultivo</text>
+<title>LianQuan — Alguém daqui vende informações para uma facção inimiga.</title>
+<polygon points="405.50,159.68 405.50,244.32 332.20,286.64 258.90,244.32 258.90,159.68 332.20,117.36" fill="#2a241c" opacity="0.72" stroke="#8f9aa6" stroke-width="3"/>
+<text x="332.2" y="196.0" text-anchor="middle" font-size="24" fill="#ffe9a8">⚑</text>
+<text x="332.2" y="218.0" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">WuGong</text>
+<text x="332.2" y="233.0" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 5 · perigo 10 · Qi 4</text>
+<text x="332.2" y="246.0" text-anchor="middle" font-size="10" fill="#c0b49a">cla nobre</text>
+<text x="332.2" y="259.0" text-anchor="middle" font-size="9" fill="#a89878">Clã do XinDian</text>
+<title>WuGong — O poço da vila envenena devagar quem bebe por mais de um ano.</title>
+<polygon points="575.70,159.68 575.70,244.32 502.40,286.64 429.10,244.32 429.10,159.68 502.40,117.36" fill="#2a241c" opacity="0.72" stroke="#8f9aa6" stroke-width="3"/>
+<text x="502.4" y="196.0" text-anchor="middle" font-size="24" fill="#ffe9a8">▪</text>
+<text x="502.4" y="218.0" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">BiCun</text>
+<text x="502.4" y="233.0" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 3 · perigo 4 · Qi 5</text>
+<text x="502.4" y="246.0" text-anchor="middle" font-size="10" fill="#c0b49a">vila</text>
+<title>BiCun — As bestas da região estão fugindo de algo que ainda não chegou.</title>
+<polygon points="235.30,316.08 235.30,400.72 162.00,443.04 88.70,400.72 88.70,316.08 162.00,273.76" fill="#2a241c" opacity="0.72" stroke="#8f9aa6" stroke-width="3"/>
+<text x="162.0" y="352.4" text-anchor="middle" font-size="24" fill="#ffe9a8">▪</text>
+<text x="162.0" y="374.4" text-anchor="middle" font-size="12" fill="#fdf7e8" font-weight="bold">TianShan</text>
+<text x="162.0" y="389.4" text-anchor="middle" font-size="10" fill="#d8cbb0">nível 3 · perigo 6 · Qi 7</text>
+<text x="162.0" y="402.4" text-anchor="middle" font-size="10" fill="#c0b49a">vila</text>
+<title>TianShan — Há um corpo preservado no subsolo que respira uma vez por mês.</title>
+</svg>

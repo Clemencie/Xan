@@ -1,0 +1,89 @@
+{
+  "atributos": {
+    "cha": 7,
+    "con": 11,
+    "int": 11,
+    "luk": 6,
+    "per": 10,
+    "pot": 18
+  },
+  "caminho": "marcial",
+  "defesa": {
+    "aparar": 11,
+    "esquiva": 11,
+    "resistencia": 11
+  },
+  "diario": "mundos/mesa-01/auditoria/mesa-01.jsonl",
+  "estado": {
+    "compreensao": 360,
+    "demonio_interior": false,
+    "desvio_de_qi": false,
+    "estado_mental": 70,
+    "face": 0,
+    "pedras_espirituais": 3,
+    "qi": 21,
+    "vitalidade": 60,
+    "xp": 100
+  },
+  "idade": 22,
+  "identificador": "",
+  "inventario": [
+    "roupas de inverno remendadas",
+    "uma faca de cozinha sem ponta",
+    "meia pedra espiritual baixa (herança)"
+  ],
+  "lei": null,
+  "localizacao": "GuKu 古窟, LanCun 蘭村",
+  "longevidade": 70,
+  "nivel": 0,
+  "nome": "Fang Ping",
+  "nome_chines": "方平",
+  "origem": "carregador do mercado",
+  "pericias": {
+    "arco": 1,
+    "astrologia": 1,
+    "cajado": 1,
+    "cozinha": 1,
+    "etiqueta": 1,
+    "folego_interno": 1,
+    "lanca": 1,
+    "navegacao": 1,
+    "negociacao": 1,
+    "passos_leves": 1,
+    "rastreamento": 1,
+    "vontade_de_ferro": 1
+  },
+  "qi_maximo": 21,
+  "raca": "renascido",
+  "raiz": {
+    "elementos": [
+      "agua",
+      "madeira",
+      "metal"
+    ],
+    "grau": "preto",
+    "multiplicador": 137,
+    "mutacao": null,
+    "pureza": 39
+  },
+  "reino": "Guerreiro de Terceira Classe",
+  "sexo": "masculino",
+  "vida_passada": {
+    "custo": "não consegue mentir sobre quem foi. Fisicamente.",
+    "demônio_interior": false,
+    "identificador_da_vida_passada": "0375d285e036a9674650a66b6c89aebb",
+    "lei_lembrada": null,
+    "longevidade": 70,
+    "memorias": [
+      "um lugar onde escondeu alguma coisa, e a distância até ele",
+      "um lugar onde escondeu alguma coisa, e a distância até ele"
+    ],
+    "nivel": 9,
+    "nome_da_vida_passada": "Gongsun Xia Chou",
+    "pontos_de_compreensao": 360,
+    "quem": "Nível 9 — morreu na primeira tribulação. Três raios. Ainda sabe o cheiro.",
+    "reino": "Embrionário",
+    "xp_inicial": 100
+  },
+  "vitalidade_maxima": 60
+}
