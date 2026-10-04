@@ -50,11 +50,14 @@ echo "  ok: $(du -h "${BASE}.tar.gz" | cut -f1)  ${BASE}.tar.gz"
 
 # --- 3. somas SHA-256 --------------------------------------------------------
 echo "→ SHA256SUMS"
-{
-    for f in "${BASE}.bundle" "${BASE}.tar.gz"; do
+# As somas usam só o nome do arquivo (sem o prefixo "backups/") para que
+# ./verificar_backups.sh possa conferir de dentro da própria pasta.
+(
+    cd backups
+    for f in "${BASE#backups/}.bundle" "${BASE#backups/}.tar.gz"; do
         [ -f "$f" ] && sha256sum "$f"
     done
-} >> backups/SHA256SUMS
+) >> backups/SHA256SUMS
 sort -u backups/SHA256SUMS -o backups/SHA256SUMS
 
 # --- 4. manifesto legível ----------------------------------------------------

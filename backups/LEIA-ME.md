@@ -69,3 +69,21 @@ Se quiser preservar um diário de sessão importante:
 
 Guarde o arquivo de selo junto com o backup externo. Ele prova que ninguém
 reescreveu o diário depois daquela data — inclusive você.
+
+## Nota sobre o que o bundle contém
+
+O `git bundle` captura o histórico **até o commit em que ele foi criado**. Os
+próprios arquivos de backup nunca estão dentro do bundle que os contém — isso é
+uma regressão impossível de fechar, e é normal.
+
+Na prática:
+
+* o bundle deste diretório contém todo o código, o livro, o mundo de exemplo, os
+  testes e o certificado;
+* se você criar um novo backup depois, o novo bundle conterá também este;
+* o `tar.gz` contém o diretório de trabalho inteiro **exceto** `.git`, outros
+  bundles e outros tar.gz — ou seja, ele é a foto dos arquivos, e o bundle é a
+  foto do histórico. Os dois juntos cobrem tudo.
+
+Restauração verificada: clonar o bundle reproduz o repositório com os 260 testes
+passando e `./xan motor autoteste` verde.

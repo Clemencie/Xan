@@ -1,0 +1,7 @@
+data_utc: 20261004T022042Z
+rotulo: sistema-completo-v1
+ramo: arena/01a103e0-xan
+commit: ce34b15f98a0875f540fcd34ff13a117b40b90c3
+commits_no_historico: 2
+arquivos_no_tar: 94
+tamanho_total: 1.1M
