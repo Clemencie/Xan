@@ -53,6 +53,7 @@
     "rastreamento": 1,
     "vontade_de_ferro": 1
   },
+  "pode_romper_para_nivel_1": true,
   "qi_maximo": 21,
   "raca": "renascido",
   "raiz": {
@@ -69,11 +70,23 @@
   "reino": "Guerreiro de Terceira Classe",
   "sexo": "masculino",
   "vida_passada": {
+    "comparacao_de_raiz": {
+      "corpo_atual": "preto, 3 elementos, pureza 39%, cultivo 137%",
+      "nota": "aritmética, não concessão: este corpo cultiva ~4x mais rápido que o corpo em que ele chegou ao nível 9",
+      "razao": 3.91,
+      "vida_passada": "Desperdício, 5 elementos, pureza 29%, cultivo 35%"
+    },
     "custo": "não consegue mentir sobre quem foi. Fisicamente.",
     "demônio_interior": false,
     "identificador_da_vida_passada": "0375d285e036a9674650a66b6c89aebb",
     "lei_lembrada": null,
     "longevidade": 70,
+    "memoria_unica": {
+      "distancia_em_li": 1002,
+      "o_que": "(selado — veja o diário)",
+      "onde_provincia": "XingJiang",
+      "por_que_repetida": "é a única que sobreviveu; não há segunda memória"
+    },
     "memorias": [
       "um lugar onde escondeu alguma coisa, e a distância até ele",
       "um lugar onde escondeu alguma coisa, e a distância até ele"

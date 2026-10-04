@@ -1,0 +1,1 @@
+{"cabeca":"129a9d0442ae030c3f527f168557703e82c1eb95a5ef12799b16671204367faf","nota":"a memória única está comprometida antes de qualquer investigação","raiz_merkle":"8ef4b4dfa6eefd69e96e9acf1420c4b3750f7663f1707158e4cecc7060c033a6","registros":26,"t":1791083542114818795}
