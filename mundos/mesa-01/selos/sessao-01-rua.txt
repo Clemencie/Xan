@@ -1,0 +1,1 @@
+{"cabeca":"fce90b4b6983cceae553e3b5debc19efb475dc5ffd34fadc89e09e86c2f770f8","nota":"cena 2 completa","raiz_merkle":"7fd8a43615e340d5d5ae8d33b21c0bbb749256472b628104543645982d86a4ce","registros":52,"t":1791084138520831093}
