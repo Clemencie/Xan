@@ -22,6 +22,33 @@ def d20():
 
 
 # ============================================================ CRIAÇÃO
+def modificadores_permanentes(heroi):
+    """Modificadores que poderes SEMPRE ATIVOS aplicam nas características derivadas.
+
+    Regras do livro (ADENDO, cap. 6):
+      Crescimento  -> +1 Força e +1 Resistência por graduação, -1 Esquiva por graduação
+      Proteção     -> +1 Resistência por graduação
+      Aumentar Característica -> soma graduações na característica nomeada em "alvo"
+
+    Poderes ligados/desligados não entram aqui: o jogador liga na mesa e soma na hora.
+    """
+    mod = {h: 0 for h in HABILIDADES}
+    mod.update({f"+{d}": 0 for d in DEFESAS})
+    for pw in heroi["poderes"].values():
+        e, g = pw["efeito"], pw["grad"]
+        if e == "Crescimento":
+            mod["Força"] += g
+            mod["+Resistência"] += g
+            mod["Agilidade"] -= g
+        elif e == "Proteção":
+            mod["+Resistência"] += g
+        elif e == "Aumentar Característica":
+            alvo = pw.get("alvo")
+            if alvo in mod:
+                mod[alvo] += g
+    return mod
+
+
 def criar(nome, np=10, habilidades=None, defesas=None, pericias=None,
           vantagens=None, poderes=None, complicacoes=None, motivacao=None,
           codinome=None, origem=None):
@@ -76,11 +103,17 @@ def criar(nome, np=10, habilidades=None, defesas=None, pericias=None,
         "fatiga": 0,
     }
 
-    # ---- defesas derivadas
+    # ---- modificadores de poderes sempre ativos
+    heroi["mod_poder"] = modificadores_permanentes(heroi)
+
+    # ---- defesas derivadas (habilidade base + bônus comprado + modificador de poder)
     der = {}
     for nome_def, info in DEFESAS.items():
-        base = heroi["habilidades"][info["base"]]
-        der[nome_def] = base + heroi["defesas"].get(nome_def, 0)
+        # a habilidade base TAMBÉM carrega o modificador de poder (Crescimento
+        # tira Agilidade, e Esquiva vem de Agilidade)
+        base = heroi["habilidades"][info["base"]] + heroi["mod_poder"].get(info["base"], 0)
+        der[nome_def] = (base + heroi["defesas"].get(nome_def, 0)
+                         + heroi["mod_poder"].get("+" + nome_def, 0))
     heroi["defesas_totais"] = der
     heroi["iniciativa"] = heroi["habilidades"]["Prontidão"] + heroi["defesas"].get("Iniciativa", 0)
 
@@ -159,6 +192,11 @@ def mod_pericia(heroi, pericia):
     return heroi["habilidades"][hab] + heroi["pericias"].get(pericia, 0)
 
 
+def hab(heroi, nome):
+    """Graduação de habilidade JÁ somando o que os poderes sempre ativos dão."""
+    return heroi["habilidades"][nome] + heroi.get("mod_poder", {}).get(nome, 0)
+
+
 def teste(heroi, caracteristica, cd, circunstancia=0, rotina=False):
     """Teste = d20 + modificador vs CD. 20 natural = sucesso crítico (+1 grau).
     rotina=True usa 10 em vez de rolar (sem pressão, como manda o livro)."""
@@ -205,7 +243,7 @@ def ataque(heroi, nome_poder=None, arma=None, defesa_alvo=10, circunstancia=0,
         efeito = pw["efeito"]
     else:
         atq = heroi["habilidades"]["Luta"] + heroi["pericias"].get("Combate Corpo-a-Corpo", 0)
-        dano_grad = max(0, heroi["habilidades"]["Força"])
+        dano_grad = max(0, hab(heroi, "Força"))
         efeito = "Dano"
 
     bonus = 0

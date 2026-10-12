@@ -35,28 +35,34 @@ print(f"Tabela de Medidas: graduação 9 = {medida(9, 'massa')} / {medida(9, 'te
 titulo("2 · FICHA — NP 10, 150 pontos de poder, os cinco limites conferidos")
 h = heroi.criar(
     nome="Rafael Duarte", codinome="Cardume", np=10,
-    origem="sobrevivente da Maré", motivacao="Responsabilidade",
-    complicacoes=["Responsabilidade", "Identidade", "Relacionamento"],
-    habilidades={"Força": 4, "Vigor": 4, "Agilidade": 4, "Destreza": 2,
-                 "Luta": 3, "Intelecto": 1, "Prontidão": 3, "Presença": 1},
-    defesas={"Esquiva": 6, "Aparar": 5, "Fortitude": 2, "Vontade": 5, "Resistência": 6},
-    pericias={"Acrobacia": 8, "Percepção": 8, "Furtividade": 6,
-              "Combate Corpo-a-Corpo": 12, "Intimidação": 4,
-              "Especialidade (História da Maré)": 6},
-    vantagens={"Esquiva Fabulosa": True, "De Pé": True, "Duro de Matar": True,
-               "Destemido": True, "Iniciativa Aprimorada": 3, "Equipamento": 2},
-    poderes={
-        "Maré Cheia": {"efeito": "Dano", "grad": 10, "ataque": 10, "extras": 1,
-                       "rotulo": "água prensada em área"},
-        "Pele de Sal": {"efeito": "Proteção", "grad": 6},
-        "Correnteza": {"efeito": "Movimento", "grad": 4},
-        "Fôlego de Fundo": {"efeito": "Imunidade", "grad": 4},
-        "Ressaca": {"efeito": "Aflição", "grad": 7, "ataque": 7,
-                    "rotulo": "corrente que derruba"},
-        "Sentido da Maré": {"efeito": "Sentidos", "grad": 4},
-        "Maré Alta": {"efeito": "Aumentar Característica", "grad": 6,
-                      "rotulo": "força da ressaca"},
-    },
+        origem="sobrevivente da Maré", motivacao="Responsabilidade",
+        complicacoes=["Responsabilidade", "Identidade", "Relacionamento"],
+        # 42 pp em habilidades (21 graduações x 2 pp)
+        habilidades={"Força": 4, "Vigor": 4, "Agilidade": 3, "Destreza": 2,
+                     "Luta": 3, "Intelecto": 1, "Prontidão": 3, "Presença": 1},
+        # 28 pp em defesas. O bônus comprado de Resistência é ZERO: quem dá é o
+        # poder Proteção 6. Resistência = Vigor 4 + Proteção 6 = 10, e Esq+Res = 20, no teto.
+        defesas={"Esquiva": 6, "Aparar": 5, "Fortitude": 2, "Vontade": 5},
+        # 20 pp em perícias (40 graduações, nenhuma passando de NP+10)
+        pericias={"Acrobacia": 8, "Percepção": 10, "Furtividade": 6,
+                  "Combate Corpo-a-Corpo": 12, "Intimidação": 8,
+                  "Especialidade (História da Maré)": 6},
+        # 9 pp em vantagens
+        vantagens={"Esquiva Fabulosa": True, "De Pé": True, "Duro de Matar": True,
+                   "Destemido": True, "Iniciativa Aprimorada": 3, "Equipamento": 2},
+        # 63 pp em poderes
+        poderes={
+            "Maré Cheia": {"efeito": "Dano", "grad": 10, "ataque": 10, "extras": 1,
+                           "rotulo": "água prensada em área"},
+            "Pele de Sal": {"efeito": "Proteção", "grad": 6},
+            "Correnteza": {"efeito": "Movimento", "grad": 4},
+            "Fôlego de Fundo": {"efeito": "Imunidade", "grad": 3},
+            "Ressaca": {"efeito": "Aflição", "grad": 7, "ataque": 7,
+                        "rotulo": "corrente que derruba"},
+            "Sentido da Maré": {"efeito": "Sentidos", "grad": 10},
+            "Maré Alta": {"efeito": "Aumentar Característica", "grad": 6,
+                          "alvo": "Força", "rotulo": "força da ressaca"},
+        },
 )
 est = heroi.Estado().carregar()
 est.d["heroi"] = h

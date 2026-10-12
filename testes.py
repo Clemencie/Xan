@@ -142,35 +142,37 @@ def test_ficha_valida():
         nome="Rafael Duarte", codinome="Cardume", np=10,
         origem="sobrevivente da Maré", motivacao="Responsabilidade",
         complicacoes=["Responsabilidade", "Identidade", "Relacionamento"],
-        # 44 pp em habilidades (22 graduações x 2 pp)
-        habilidades={"Força": 4, "Vigor": 4, "Agilidade": 4, "Destreza": 2,
+        # 42 pp em habilidades (21 graduações x 2 pp)
+        habilidades={"Força": 4, "Vigor": 4, "Agilidade": 3, "Destreza": 2,
                      "Luta": 3, "Intelecto": 1, "Prontidão": 3, "Presença": 1},
-        # 34 pp em defesas (Resistência = Vigor 4 + Proteção 6 = 10; Esq+Res = 20, no teto)
-        defesas={"Esquiva": 6, "Aparar": 5, "Fortitude": 2, "Vontade": 5, "Resistência": 6},
-        # 19 pp em perícias (38 graduações, nenhuma passando de NP+10)
-        pericias={"Acrobacia": 8, "Percepção": 8, "Furtividade": 6,
-                  "Combate Corpo-a-Corpo": 12, "Intimidação": 4,
+        # 28 pp em defesas. O bônus comprado de Resistência é ZERO: quem dá é o
+        # poder Proteção 6. Resistência = Vigor 4 + Proteção 6 = 10, e Esq+Res = 20, no teto.
+        defesas={"Esquiva": 6, "Aparar": 5, "Fortitude": 2, "Vontade": 5},
+        # 20 pp em perícias (40 graduações, nenhuma passando de NP+10)
+        pericias={"Acrobacia": 8, "Percepção": 10, "Furtividade": 6,
+                  "Combate Corpo-a-Corpo": 12, "Intimidação": 8,
                   "Especialidade (História da Maré)": 6},
         # 9 pp em vantagens
         vantagens={"Esquiva Fabulosa": True, "De Pé": True, "Duro de Matar": True,
                    "Destemido": True, "Iniciativa Aprimorada": 3, "Equipamento": 2},
-        # 51 pp em poderes
+        # 63 pp em poderes
         poderes={
             "Maré Cheia": {"efeito": "Dano", "grad": 10, "ataque": 10, "extras": 1,
                            "rotulo": "água prensada em área"},
             "Pele de Sal": {"efeito": "Proteção", "grad": 6},
             "Correnteza": {"efeito": "Movimento", "grad": 4},
-            "Fôlego de Fundo": {"efeito": "Imunidade", "grad": 4},
+            "Fôlego de Fundo": {"efeito": "Imunidade", "grad": 3},
             "Ressaca": {"efeito": "Aflição", "grad": 7, "ataque": 7,
                         "rotulo": "corrente que derruba"},
-            "Sentido da Maré": {"efeito": "Sentidos", "grad": 4},
+            "Sentido da Maré": {"efeito": "Sentidos", "grad": 10},
             "Maré Alta": {"efeito": "Aumentar Característica", "grad": 6,
-                          "rotulo": "força da ressaca"},
+                          "alvo": "Força", "rotulo": "força da ressaca"},
         },
     )
     exige(h["np"] == 10, "NP errado")
-    exige(h["defesas_totais"]["Esquiva"] == 10, "Esquiva derivada errada")
-    exige(h["defesas_totais"]["Resistência"] == 10, "Resistência derivada errada")
+    exige(h["defesas_totais"]["Esquiva"] == 9, "Esquiva derivada errada")
+    exige(h["defesas_totais"]["Resistência"] == 10,
+          "Resistência = Vigor 4 + Proteção 6 = 10")
     exige(h["defesas_totais"]["Esquiva"] + h["defesas_totais"]["Resistência"] <= 20,
           "Esquiva+Resistência estourou 2xNP")
     exige(h["pontos_heroicos"] == 1, "herói não começa com 1 ponto heroico")
@@ -182,6 +184,21 @@ def test_ficha_valida():
     exige(d["Esquiva"] + d["Resistência"] <= l["esquiva_resistencia_max"], "Esq+Res estourou")
     exige(d["Aparar"] + d["Resistência"] <= l["aparar_resistencia_max"], "Apa+Res estourou")
     exige(d["Fortitude"] + d["Vontade"] <= l["fortitude_vontade_max"], "For+Von estourou")
+    # poderes sempre ativos têm que aparecer nas derivadas
+    exige(h["mod_poder"]["+Resistência"] == 6,
+          f"Proteção 6 não somou na Resistência: {h['mod_poder']['+Resistência']}")
+    exige(heroi.hab(h, "Força") == 10,
+          f"Maré Alta (Aumentar Característica 6 em Força) não somou: {heroi.hab(h, 'Força')}")
+    _gig = heroi.criar(nome="Teste", np=12, origem="t", motivacao="Justiça",
+                       complicacoes=["Identidade", "Segredo"],
+                       habilidades={"Vigor": 4, "Agilidade": 4},
+                       poderes={"Crescer": {"efeito": "Crescimento", "grad": 3}})
+    exige(heroi.hab(_gig, "Força") == 3, "Crescimento não somou Força")
+    exige(_gig["defesas_totais"]["Resistência"] == 7,
+          f"Crescimento 3 + Vigor 4 devia dar Resistência 7, deu "
+          f"{_gig['defesas_totais']['Resistência']}")
+    exige(_gig["defesas_totais"]["Esquiva"] == 1,
+          "Crescimento não descontou Esquiva")
     print(f"  ficha válida OK — Cardume NP 10 gastou {h['pontos_gastos']}/{h['pontos_orcamento']} pp "
           f"cravado; Esq {d['Esquiva']} Apa {d['Aparar']} Res {d['Resistência']} "
           f"For {d['Fortitude']} Von {d['Vontade']} — nenhum dos 5 limites estourado")
