@@ -212,6 +212,24 @@ FALHAS = ["Ação Aumentada", "Alcance Reduzido", "Ativação", "Baseado em Agar
           "Removível", "Resistível", "Retroalimentação"]
 
 # ============================================================ CONDIÇÕES (Cap. 1, lido no PDF)
+# ====================================================================== MOTIVAÇÕES
+# Lidas no PDF (cap. 1). A Motivação é uma complicação obrigatória: quando o mestre
+# a usa contra você, você ganha 1 ponto heroico.
+MOTIVACOES = [
+    "Aceitação", "Adrenalina", "Cobiça", "Fazer o Bem",
+    "Justiça", "Patriotismo", "Reconhecimento", "Responsabilidade",
+]
+
+# ====================================================================== COMPLICAÇÕES
+# Lista do livro. Não dão pontos: dão ponto heroico quando o mestre cobra.
+COMPLICACOES = [
+    "Acidente", "Deficiência", "Fama", "Fobia", "Fraqueza", "Honra", "Identidade",
+    "Inimigo", "Irritação", "Obsessão", "Ódio", "Peculiaridade", "Perda de Poder",
+    "Preconceito", "Relacionamento", "Reputação", "Responsabilidade", "Rivalidade",
+    "Segredo", "Vício",
+]
+
+
 CONDICOES_BASICAS = {
     "Atordoado":  "não pode executar ações, nem livres",
     "Compelido":  "dirigido por força externa, luta contra; só ações livres + 1 padrão, escolhidas por quem controla",

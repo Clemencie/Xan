@@ -8,7 +8,7 @@ import json
 import os
 import secrets
 
-from regras import (HABILIDADES, DEFESAS, PERICIAS, VANTAGENS, EFEITOS,
+from regras import (MOTIVACOES, COMPLICACOES, HABILIDADES, DEFESAS, PERICIAS, VANTAGENS, EFEITOS,
                     CUSTO_HABILIDADE, CUSTO_DEFESA, CUSTO_PERICIA, CUSTO_VANTAGEM,
                     pontos_iniciais, limites_np, custo_poder, graus, medida)
 
@@ -56,6 +56,11 @@ def criar(nome, np=10, habilidades=None, defesas=None, pericias=None,
         erros.append("o livro exige pelo menos 2 complicações, sendo uma a Motivação")
     if not motivacao:
         erros.append("falta a Motivação (é obrigatória)")
+    elif motivacao not in MOTIVACOES:
+        erros.append(f"Motivação inexistente: {motivacao}; use uma de {MOTIVACOES}")
+    for c in complicacoes or []:
+        if c not in COMPLICACOES and c != motivacao:
+            erros.append(f"complicação inexistente: {c}; use uma de {COMPLICACOES}")
 
     heroi = {
         "nome": nome, "codinome": codinome or nome, "np": np,

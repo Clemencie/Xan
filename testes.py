@@ -17,6 +17,7 @@ sys.path.insert(0, RAIZ)
 import mundo as mundo_mod
 from mundo import ENCONTROS, FACCOES, LUGARES, GANCHOS
 from regras import (HABILIDADES, DEFESAS, PERICIAS, VANTAGENS, EFEITOS,
+                    MOTIVACOES, COMPLICACOES,
                     MEDIDAS, CONDICOES_BASICAS, CONDICOES_COMBINADAS, TABELA_CD,
                     pontos_iniciais, limites_np, graus, custo_poder, np_efetivo_pdM)
 import heroi
@@ -216,7 +217,25 @@ def test_ficha_recusada():
         exige(False, "aceitou só 1 complicação")
     except ValueError as e:
         exige("complicações" in str(e), f"mensagem errada: {e}")
-    print("  validação OK — perícia, ataque+efeito, orçamento e complicações são barrados")
+    # 5) Motivação fora da lista do livro
+    try:
+        heroi.criar(nome="Teste", np=10, origem="t", motivacao="Vingança",
+                    complicacoes=["Vingança", "Identidade"])
+        exige(False, "aceitou Motivação que não está no livro")
+    except ValueError as e:
+        exige("Motivação inexistente" in str(e), f"mensagem errada: {e}")
+    # 6) complicação fora da lista do livro
+    try:
+        heroi.criar(nome="Teste", np=10, origem="t", motivacao="Justiça",
+                    complicacoes=["Identidade", "Azar"])
+        exige(False, "aceitou complicação que não está no livro")
+    except ValueError as e:
+        exige("complicação inexistente" in str(e), f"mensagem errada: {e}")
+    # as 8 Motivações e as 20 complicações do livro estão todas aceitas
+    exige(len(MOTIVACOES) == 8, f"livro tem 8 motivações, aqui há {len(MOTIVACOES)}")
+    exige(len(COMPLICACOES) == 20, f"livro tem 20 complicações, aqui há {len(COMPLICACOES)}")
+    print(f"  validação OK — perícia, ataque+efeito, orçamento, {len(MOTIVACOES)} motivações "
+          f"e {len(COMPLICACOES)} complicações são conferidos contra o livro")
 
 
 # ================================================================ DOSAGEM DE PdM
